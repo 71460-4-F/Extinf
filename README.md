@@ -1,0 +1,2 @@
+# extinf
+Extension Identifier
