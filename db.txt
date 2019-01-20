@@ -1,0 +1,2748 @@
+!ut:::Arquivo incompleto do uTorrent;
+###:::Arquivo temporário; QTIC A zog B = c
+#24:::Arquivo de dados para impressora 24 pin matrix printer; Logo
+#IB:::Arquivo de dados para impressora; Logo
+#nn:::Arquivo de imagem parte; Long
+#SC:::Arquivo de dados para impressora; Logo
+#ST:::definições padrões de impressora; Logo
+$$$:::OS/2 arquivo (também conhecido como arquivo.$$$, keys.$$$); OS/2
+$$$:::Arquivo temporário;
+$?:::ZX Spectrum arquivo em formato HOBETA;
+$00:::Arquivo Pipe; DOS
+$DB:::Arquivo Temporário; dBASE IV
+$ED:::Arquivo temporário para editores; MS C
+$O1:::Arquivo Pipe; DOS
+$VM:::Arquivo de gerenciamento Virtual temporário; Windows 3.x
+)2(:::LHA arquivo temporário; LHA
+??$:::Backup arquivo; P-CAD
+??_:::Arquivo empacotado Microsoft; Expand
+?DK:::Disk image; Loaddskf.exe
+?UT:::Nonpacked FTN mail (? - flavor); FTN software
+___:::Adinf table; Adinf
+?Q?:::Squeeze for CP/M and MS-DOS
+~$~:::Arquivo temporario; 1st Reader
+~??:::Arquivo antigos de Backup (.MNU to.~MN); Resource Workshop - Borland Delphi
+μ:::Metrowerks Codewarrior project
+Π:::THINK C projeto
+0:::dados Comprimidos em disco rigido; DoubleSpace
+0B:::Fonte de impressão com conjunto de caracteres estendidos lineDraw; PageMaker
+1:::Fax; Roff/nroff/troff/groff fonte de página de manual; cawf2.zip
+123:::Arquivo do programa Lotus 123 versão 97
+12M:::Arquivo Smartmaster do programa Lotus 123 versão 97
+15U:::Fonte de impressão com conjunto de fonte PI; PageMaker
+1ST:::Arquivo de texto, designado como lembrete para ser lido primeiro (Geralmente README.1ST)
+2GR/3GR:::286 Ficheiro Grabber; Win
+301:::Fax; Super FAX 2000 - Fax-Mail 96
+386:::Driver de processadores Intel 80386; Windows 3.x
+386:::Driver de dispositivo virtual do Windows; Win
+3DM:::Formato do programa Rhinoceros3d
+3DMF:::Ficheiro de metadados do QuickDraw 3D; QuickDraw
+3DS:::Formato gráfico do 3D Studio; 3D Studio
+3DT:::Base de dados onde são alocados os metadados do 3D Topicscape.
+3FX:::Efeitos; CorelChart
+3GR:::386 Grabber File; Win
+3GP:::Vídeo de celular
+3T4:::Ficheiro binário para conversão para ASCII; Util3
+4C$:::Ficheiro de dados; 4Cast/2
+4MD:::Ficheiro de música;
+4SW:::Ficheiro temporário do 4DOS; 4DOS
+4TH:::Código fonte da linguagem de programação FORTH; ForthCMP - LMI Forth
+555:::Formato de imagem de 16 bits por píxel (5bits por componente)
+668:::Música (a mistura é sempre a 12048 Hz);
+669:::Música (8 canais); The 669 Composer
+6CM:::Música (Módulo de 6 canais); Triton FastTracker
+75:::Fonte de 75x75 dpis; Ventura Publisher
+7Z/7ZIP:::Ficheiro compactado em 7-Zip; http://www.7-zip.org/
+8:::Ficheiro de código fonte Assembly A86;
+85:::Fonte a 85x85 dpi; Ventura Publisher
+8BF:::Filtros e plugins compatíveis Adobe Photoshop
+8CM:::Música (Módulo de 8 canais); Triton FastTracker
+8M:::Fonte de impressão com conjunto de carateres estendidos Math; PageMaker
+8SVX:::Áudio do Amiga
+8U:::Fonte de impressão com conjunto de carateres expandidos Roman 8; PageMaker
+91:::Fonte de 91x91 dpi; Ventura Publisher
+96:::Fonte de 96x96 dpi; Ventura Publisher
+A:::ADA source code file;
+A:::Library; unix
+A11:::Graphics AIIM image file;
+AAS:::Animation Play ; AAPlay
+AB6:::Datafile; ABStat
+AB8:::Datafile; ABStat
+ABC:::Document; ABC FlowCharter 1.0
+ABF:::Adobe Binary Screen Font; Adobe Software
+ABK:::Automatic backup file; CorelDRAW
+ABM:::Image PALS album file;
+ABM:::Album file (various programs)
+ABR:::Adobe Brush file for PhotoShop; PhotoShop
+ABS:::Abstracts (info file);
+ABS:::Data file; Abscissa
+ACA:::Project; Project Manager Workbench
+ACB:::Archive; ACB
+ACB:::see ACMB;
+ACC:::Program (DR-DOS - ViewMax); GEM / resident
+ACF:::Adobe Custom Filter for PhotoShop; PhotoShop
+ACM:::Audio Compression Module add-on; Win
+ACMB:::Graphics file;
+ACO:::Adobe Color Palette;
+ACT:::ACTOR source code file; ACTOR
+ACT:::Animations Works Actor (Graphics cell); Animation Works
+ACT:::FoxDoc Action Diagrams; FoxPro
+ACT:::Presentation; Action!
+AD:::AfterDark screensaver module; AfterDark
+AD2:::ADPCM 2-bit compressed voice file; ZFAX
+AD3:::ADPCM 3-bit compressed voice file; ZFAX
+ADA:::Ada source code file;
+ADB:::Ada Package Body;
+ADC:::Bitmap graphics (16 colors); Scanstudio
+ADC:::Dictionary; Lingvo
+ADD:::OS/2 adapter device driver;
+ADI:::Graphics file; AutoCAD
+ADL:::MCA adapter deion library; QEMM
+ADM:::After Dark support file; AfterDark
+ADN:::Add-in; Lotus 1-2-3
+ADR:::After Dark support file; AfterDark
+ADS:::Ada Package Specification;
+ADT:::Datafile for cardfile application; HP NewWave
+ADT:::Dictionary; Lingvo
+ADT:::Fax; AdTech
+ADV:::GUS device driver; Gf166.com
+ADX:::Document; Archetype Designer
+AEP:::Project; Adobe After Effects Project
+AF2:::Flowchart; ABC FlowCharter 2.0
+AF3:::Flowchart; ABC FlowCharter 3.0
+AFI:::Truevision bitmap graphics;
+AFL:::Font file (for Allways); Lotus 1-2-3
+AFM:::Datafile for cardfile application; HP NewWave
+AFM:::Type 1 font metric ASCII data for font installer; ATM - many
+AFP:::Shape palette; ABC FlowCharter
+AFT:::Template; ABC FlowCharter 3.0
+AFW:::Workplace; ABC FlowCharter 3.0
+AGR:::ArcView ASCII grid
+AI:::Vector graphics file; Adobe Ilustrator
+AIF:::see AIFF;
+AIFC:::Sound;
+AIFF:::Audio Interchange Format File (AIFF); Convert (c) Villena
+AiM:::Asm Text Mode Image File; The Ultimate Draw
+AIN:::Archive; AIN
+AIO:::APL programming language file transfer format file;
+AIS:::Array of Intensity Samples graphics file; Xerox
+AIX:::Datafile for cardfile application; HP NewWave
+ALG:::Activity Log; ARCSOLO
+ALL:::----- (Arts & Letters) symbol and font files; Arts & Letters
+ALL:::Filelist w/ all files; FRQView
+ALL:::Format file for working pages; Always
+ALL:::General printer information; WordPerfect for Win
+ALO:::Almanac support file;
+ALT:::Menu file; WordPerfect Library
+AMF:::Music (Advanced Module Format); DMP
+AMG:::Archive; AMGC
+AMG:::System image file; ACTOR
+AMR:::Audio format for mobile phones (Nokia, SonyEricsson)
+AMS:::Adobe Monitor Setup calibration file; PhotoShop
+AMS:::Music format;
+ANI:::Animation cursors for Win; Win95 - WinNT
+ANI:::Animation; IconAuthor
+ANM:::Animation; Deluxe Paint Animator
+ANN:::Help Annotations; Windows 3.x
+Ann:::Multi volume ARJ archive; ARJ
+ANS:::ANSI character graphics (animation) file; ANSView
+ANS:::ASCII text ANSI character set; NewWave Write
+AOL:::America On-line for Windows DLL; Win
+AOS:::Add-On Software; Nokia 9000
+AP:::Archive; WHAP
+AP:::Datafile; Datalex EntryPoint 90
+APC:::Printer driver; Lotus 1-2-3
+APD:::Printer driver; Lotus 1-2-3
+APF:::Printer driver; Lotus 1-2-3
+API:::Adobe Printer Ink file for PhotoShop; PhotoShop
+API:::Passed parameter file; 1st Reader
+API:::Printer driver; Lotus 1-2-3
+APL:::APL work space format file;
+APL:::Support module used by Manugraphics APL products;
+APM:::Authorware Macintosh; Authorware
+APP:::Add-in application file; Symphony
+APP:::Application object file; dBASE Application Generator
+APP:::Application; FoxPro
+APP:::Executable application file; DR-DOS - NeXTstep - Atari
+APP:::Generated application; FoxPro
+APR:::Employee performance review; Employee Appraiser
+APW:::Authorware Windows; Authorware
+APX:::Appexpert database file; Borland C++ 4.5
+ARC:::Archive; ARC - PKARC/PKXARC - PKPAS - PKUNPAK - QUARK
+ARC:::Archive; SQUASH
+ARF:::Automatic Response File;
+ARH:::Archivers definitions file; DN
+ARI:::Archive; ARI
+ARJ:::Archive; ARJ - ARJZ
+ARK:::ARC archive; CP/M port of ARC file archiver
+ARK:::Archive; QUARK
+ARK:::Managing your Money Archive File;
+ARR:::Arrangement; Atari Cubase
+ART:::First Publisher graphic file; First Publisher
+ART:::Graphics (scrapbook); Art Import
+ART:::Graphics format (Another Ray Tracer); PFS:1st publisher - Art Import
+ARX:::Archive; ARX
+ASC:::ASCII text file;
+ASC:::Transport armor file; PGP
+ASD:::Autosave file; MS Word
+ASD:::Presentation; Astound
+ASD:::Screen driver; Lotus 1-2-3
+ASE:::Velvet Studio Sample; AWAVE
+ASF:::Datafile; STATGRAPHICS
+ASF:::Screen font; Lotus 1-2-3
+ASF:::Advanced Streaming Format (Compressed Windows audio/video); Microsoft Corporation
+ASH:::Assembly language header file; TASM 3.0
+ASI:::ASIC language source; ASIC
+ASI:::Assembler include file; Turbo C - Borland C++
+ASM:::Assembler language source; TASM - MASM
+ASO:::Assembler object (object orientated) file; Turbo Assembler
+ASP:::ASPECT source code file; Procomm Plus
+ASP:::Association of Shareware Professionals OMBUDSMN.ASP notice;
+ASS:::Amalgam Scene Specification; Halo 2 Map Editor
+AST:::Adobe Color Separtion table for PhotoShop; PhotoShop
+ASW:::Authorware Star; Authorware
+ASX:::Advanced Stream Redirector file, redirects to an ASF file (see ASF); Microsoft Corporation
+AT2:::Auto template; Aldus Persuasion 2.0
+ATM:::Adobe Type Manager data/info;
+ATT:::AT&T Group; GCGW
+ATY:::Produced when an association type is exported by 3D Topicscape
+AU:::Sun/NeXT/DEC Audio file; AWAVE, GoldWave
+AU:::Sound (audio) file; SUN Microsystems - Convert (c) Villena
+AUD:::Audio file; AudioRack
+AUP:::Audacity project file; Audacity
+AUX:::Auxiliary dictionary; ChiWriter
+AUX:::Auxiliary references; TeX/LaTeX
+AVA:::Publication; Avagio
+AVB:::AntiViral Toolkit Pro Bases;
+AVI:::Audio Video Interleaved animation file; Video for Windows
+AVR:::Audio Visual Research; AWAVE
+AVS:::Application Visualization System;
+AVT:::AVATAR-coding files; A3E
+AW:::Text file; HP AdvanceWrite
+AWA:::Animations Works Accelerated Movie; Animation Works
+AWD:::Microsoft Fax At Work Document; MS Fax At Work
+AWK:::AWK /program;
+AWM:::Animations Works Movie (as.AVI); Animation Works
+AWS:::Data; STATGRAPHICS
+Ax:::Directshow filter file format
+AZZ:::Data file; AZZ Cardfile
+B & W:::Preto e branco de arquivo gráfico; Atari - Mac
+B & W:::Mono imagem da tela binário; 1 Reader
+B:::Lista de lote; APLAUSOS
+B_w:::Preto e branco de arquivo gráfico; Atari - Mac
+B.1N:::Pré mono tela na cor e binário; 1 Reader
+B30:::Printer Fonte (JLaser - Cordata); Ventura Publisher
+B8:::Raw arquivo gráfico (um byte por pixel avião) dois; PicLab
+BAD:::Arquivo inválido; Oracle - muitos
+BAK:::Arquivo de backup;
+BAL:::Pontuação Music; Ballade
+BAR:::Linha Barra de menu de arquivo objeto; dBASE Application Generator
+BAR:::Info Bar para GFX2EXE; GFX2EXE
+BAS:::BASIC idioma de origem], QuickBASIC - GW-BASIC
+BAT:::Arquivo de lote; MS-DOS
+BB:::Database backup; Papyrus
+BBL:::Arquivo de referência bibliográfica; TeX / BibTeX
+BBM:::Brush, Paint Deluxe
+BBS:::Bulletin Board System anunciar ou arquivo de informações de texto;
+BBS:::Hudson-messagebase estilo; FTN software
+BCH:::Batch arquivo objeto do processo; dBASE Application Generator
+BCH:::Datafile; Datalex EntryPoint 90
+BCO:::Descrição Contorno; Bitstream
+BCP:::Borland makefile C + +;
+BCT:::Dictionary Backup; Clarion
+BCW:::Configuração Ambiente; Borland C + + 4,5
+BDC:::Dictionary; Lingvo
+BDF:::Adobe Glyph Bitmap Distribution Format; Adobe Software
+BDF:::Arquivo de atualização binário; BUPDATE.EXE (c) TNT Techn.
+BDF:::Distribuição fonte Bitmap Format; X11
+BDF:::Datafile; Egret
+BDR:::Fronteiras; MS Publisher
+BDT:::Dictionary; Lingvo
+BEZ:::Descrição Contorno; Bitstream
+BF2:::Bradford 2 Fonte;
+BFC:::Briefcase Win95, Win95
+BFM:::Métricas Font; Unix / Moldura
+BFX:::Fax; BitFax
+BGA:::Gráficos bitmap de;
+BGI:::Borland Graphics Interface do driver de dispositivo; Turbo C - Turbo Pascal
+BI:::BASIC arquivo de inclusão; Visual Basic
+BIB:::Bibliografia (ASCII);
+BIB:::Banco de dados - não é compatível com o formato TeX; Papyrus
+BIB:::Banco de Literatura; TeX / BibTeX
+BIF:::Binary Image Format B & W de arquivo gráfico; placa de captura de imagem
+BIK:::Bink arquivo de vídeo (RAD Video)
+BIN:::Arquivo binário, zero-start normalmente (com analógica.);
+BIN:::SGI Powerflip;
+BIN:::Texto de despejo de memória de modo; The Draw - TUD - ACiDDraw - etc
+BIO:::OS / 2 BIOS;
+BIT:::Bitmap X11;
+BK!:::Backup de documentos; WordPerfect para a Vitória
+BK:::Faxbook; JetFax
+BK?:::Arquivo de backup;
+BKN:::Arquivo de backup para Temporário Janela do documento n; WordPerfect for Win
+BKP:::Arquivo de backup; Escrever - TurboVidion DialogDesigner
+BKW:::Espelho imagem de um conjunto de fonte; FontEdit
+BLD:::Bloadable picture, BASIC
+BLEND:::Arquivo do Blender 3D
+BLG:::Log Backup; ARCSOLO
+BLK:::Arquivos temporários; WordPerfect para a Vitória
+BM:::Gráficos de bitmap de arquivos;
+BMK:::Favoritos Ajuda, Windows 3.x
+BMP:::OS / 2 ou Win formato gráfico (Bitmap Picture); QPEG - CorelDraw - PC Paintbrush - muitos
+TMO:::Ami Pro Button; Ami Pro
+BNK:::Adlib Arquivo de Banco de instrumento;
+BNR:::Gráficos Banner; Banner - Poster
+BOO:::Livro-formato; READIBM
+BOO:::Comprimido arquivo ASCII criado por BOO (msbooasm.arc); msbooasm.arc
+BPC:::Gráfico; Plano de Negócios Toolkit
+BPP:::Aplicativo de backup; Clarion
+BPT:::Preenchimentos de bitmap de arquivos; CorelDRAW
+BR:::Script; Bridge
+BRD:::Eagle Layout do arquivo;
+BRK:::Fax; Brooktrout Fax-Mail
+BRK:::O freio! Mailer REXX script; o freio!
+BRL:::CAD; Ballistic Research Laboratory CAD; BRL
+BS2:::Archive; BS2.EXE
+BSA:::Archive; BSArc
+BSC:::Compressed Apple II file archive criado por BINSCII; BINSCII
+BSC:::Banco de Dados; Source Browser
+BSC:::Arquivo PWBRMAKE objeto; MS Fortran
+BSS:::Casio base do telefone, PC-LINK
+BST:::Arquivo Bibliotex (bibliografia arquivo Bibliotex =); TeX
+BSY:::Flag Busy; FTN soft
+BTM:::Batch-to-memory (Quick Batch); 4DOS-NDOS
+BTN:::Makeover arquivo Button;
+BUFR:::Binary Universal Form para uma Representação de Dados Meteorológicos
+Erro:::E Problemas Bugs;
+BOLO:::LucasArts Bundle File;
+BUP:::Arquivo de backup;
+BUT:::Definições Button; Buttons!
+BUY:::Formato Datafile; filme
+BVN:::Overflow arquivo abaixo do ponto de inserção no n Doc; WordPerfect for Win
+BWB:::Aplicativo de Planilha; Enfardadeira Visual
+BWR:::Beware (Buglist); Kermit
+BYU:::BYU Movie; BYU
+BZ2:::Archive; bzip2
+C--:::C-- language source; Sphinx C--
+C:::C language source; Watcom C/C++
+C:::Unix file archive; COMPACT
+C++:::C++ language source;
+C00:::Print file; Ventura Publisher
+C01:::Typhoon wave files; AWAVE
+C86:::C source code file; Computer Innovation C86
+CA:::Initial cache data for root domain servers; Telnet
+CA?:::Borland packed and split file; Borland Installer
+CAB:::Win 95 packed file; Win 95
+CAC:::dBASE IV executable when caching on/off (see cachedb.bat);
+CAD:::Document; Drafix Windows CAD
+CAL:::Calendar file; Windows 3.x
+CAL:::Spreadsheet format; SuperCalc
+CALS:::Computer Aided Acquisition and Logistics;
+CALS:::Support Raster Format;
+CAM:::Casio Camera;
+CAN:::Fax; Navigator Fax
+CAP:::Caption; Ventura Publisher
+CAP:::Capture file; ProComm - Telix
+CAS:::C + ASM language source; Turbo C
+CAT:::Catalog; CP Backup - dBASE IV
+CBC:::Fuzzy logic system; CubiCalc
+CBL:::COBOL source code file;
+CBM:::Compiled bitmap graphics; XLib
+CBS:::MasterWord button bar configuration file;
+CBT:::Computer Based Training; many
+CC:::C++ source code file;
+CC:::CC language source; CC
+CCC:::Bitmap graphics (native format); Curtain Call
+CCF:::Communications configuration file; Symphony
+CCH:::Chart; CorelChart
+CCITT:::CCITT Group 3 and Group 4 Encoding;
+CCL:::Communication Command Language file; Intalk
+CCO:::BTX Graphics file; XBTX
+CD:::CD description; DN
+CDA:::CD-Audio; Win95
+CDB:::Card database; CardScan
+CDB:::Main database; TCU Turbo C Utilities
+CDF:::Common Data Format;
+CDF:::Cyberspace Description Format;
+CDF:::Graphics; netcdf
+CDK:::Document; Atari Calamus
+CDL:::CADKey CADL Language; CADKey
+CDM:::Disk Drivers NPA; Novell NetWare
+CDM:::Music format (compressed);
+CDR:::Vector graphics format (drawing); CorelDraw!
+CDT:::Corel Draw Template File; CorelDraw!
+CDX:::Compaund index file; FoxPro
+CE:::Computer Eyes; Conversion Artist
+CE:::Main.ce; The FarSide Computer Calendar
+CEB:::Cont. Edge Bitmap; Conversion Artist
+CEF:::CA-Clipper Workbench Application; CA Clipper
+CEF:::Export File;
+CEG:::Bitmap graphics; Tempra Show - Edsun Continuous Edge Graphics
+CEL:::Animation CEL; 3D Studio
+CEL:::Graphics; Autodesk Animator - Lumena
+CF:::Configuration file; imake
+CFG:::Configuration file;
+CFL:::Chart; CorelFLOW
+CFN:::Font data; Atari Calamus
+CFO:::C Form Object internal format object file; TCU Turbo C Utilities
+CFP:::Fax; The Complete Fax Portable
+CFT:::CFast graphics file; Disney Animation Studio
+CGA:::CGA display font; Ventura Publisher
+CGI:::Common Gateway Interface script;
+CGM:::Computer Graphics Metafile vector graphics; A&L - HG - many
+CH:::Clipper language header; CA Clipper
+CH3:::Chart; Harvard Graphics 3.0
+CH4:::Presentation; Charisma 4.0
+CHD:::Font descriptor; FontChameleon
+CHI:::ChiWriter Document; ChiWriter - Chiview
+CHK:::Recovered data; DOS CHKDSK
+CHK:::Temporary file; WordPerfect for Win
+CHL:::Configuration History Log;
+CHN:::Data; Ethnograph 3
+CHP:::Chapter file; Ventura Publisher
+CHR:::Character set; Turbo C - Turbo Pascal
+CHT:::Chart; Harvard Graphics 2.0 - SoftCraft Presenter
+CHT:::CHeaT in any program/game; many
+CHT:::Interface file for ChartMaster; dBASE
+CHZ:::Archive; CHARC
+CIF:::Caltech Intermediate Format graphics file;
+CIF:::Chapter information; Ventura Publisher
+CiM:::C Text Mode Image File; The Ultimate Draw
+CIX:::Database index; TCU Turbo C Utilities
+CKB:::Borland C++ 4.x editor keystroke mapping; BCW.EXE
+CL:::COMMON LISP source code file;
+CLA:::Source; Clarion
+CLD:::Clipper debugger configuration file; CA Clipper
+CLP:::Clip art graphics file; Quattro Pro
+CLP:::Clipboard file; Windows 3.x
+CLP:::Compiler response file; CA Clipper
+CLP:::Graphics format; PCPAINT/Pictor
+CLR:::Color binary screen image; 1st Reader
+CLR:::Color definitions; Photostyler
+CLR:::Color scheme; Boxer/2
+CLR:::Palette file for GIS format;
+CLS:::C++ class definition file;
+CLW:::MFC Class Wizard information; MS VC++
+CM:::Data file; CraftMan
+CMB:::Xtree for Windows Button Bar file;
+CMD:::Command; dBASE - Waffle
+CMD:::External command menu; 1st Reader
+CMD:::OS/2 batch/REXX file; OS/2
+CMF:::FM-music file (Creative Music File);
+CMK:::Card; Card Shop Plus
+CMM:::CMM script (batch) file; CEnvi
+CMP:::Bitmap graphics (Lead CMP compression);
+CMP:::Compressed data; PKWare Inc. data compression library
+CMP:::Header file for PostScript printer files; CorelDRAW
+CMP:::Photofinish Calibration Map; Photofinish
+CMP:::User dictionary; MS Word for DOS
+CMU:::Carnegie Mellon University Formats;
+CMV:::Animation (CorelMove CorelDraw 4.0); CorelMove CorelDraw 4.0
+CNC:::CNC general program data;
+CNF:::Configuration (program - printer setup); program - printer setup
+CNF:::Configuration file;
+CNV:::Temporary file; WordPerfect for Win
+CNV:::Winword DLL used as part of an import operation (CNV=converter); MS Word
+COB:::Calgari trueSpace2 File Format;
+COB:::COBOL source code file;
+COD:::Code definition table; UUPC
+COD:::Datafile; Forecast Plus - MS Multiplan - StatPac Gold
+COD:::file uncluding CODES for any program/game; many
+COD:::Printer code definition file; Boxer/2
+COD:::Program compiled code; FORTRAN
+COD:::Template source file; dBASE Application Generator
+COD:::Videotext file;
+COE:::Coefficient file; Xilinx ISE
+COL:::Color palette; Autodesk Animator - many
+COL:::Spreadsheet; MS Multiplan
+COM:::Command (memory image of executable program); DOS
+CON:::Configuration file; Simdir
+CPC:::Compressed image; Cartesian Perceptual Compression
+CPD:::Script; Complaints Desk
+CPF:::Fax; The Complete Fax
+CPI:::ColorLab Processed Image bitmapped graphics file;
+CPI:::MS-DOS codepage file; MODE.EXE
+CPL:::Windows Control Panel Applet
+CPL:::Presentation; Compel
+CPP:::C++ language source; Watcom C/C++
+CPP:::Presentation; CA-Cricket Presents
+CPR:::Knowledge Access; GCGW
+CPS:::----- backup of startup files by QEMM (?) autoexec.cps;
+CPT:::Encrypted memo file; dBASE
+CPT:::Mac file archive; COMPACT PRO
+CPT:::Template; CA-Cricket Presents
+CPY:::COPY Files used in COBOL language
+CPZ:::Music text file; COMPOZ
+CRA:::Advanced crack file (usually text);
+CRD:::Cardfile; Windows 3.x - YourWay
+CRF:::Cross-reference; MS MASM - Zortech C++
+CRK:::Crack file (usually text);
+CRP:::Encrypted database; dBASE IV
+CRS:::File Conversion Resource; WordPerfect 5.1
+CRT:::Terminal settings information; Oracle
+CRU:::Compressed file archive created by CRUSH;
+CSG:::Graph; Statistica/w
+CSM:::Borland C++ 4.x precompiled header file; BCW.EXE
+CSO:::Arquivos de imagens de CDs e DVDs
+CSP:::PC Emcee Screen Image file; Computer Support Corporation
+CSS:::Datafile; CSS - Stats+
+CSS:::Datasheet; Statistica/w; cascading style sheet
+CSV:::Adjusted EGA/VGA palette; CompuShow
+CSV:::Comma Separated Values text file format (ASCII);
+CTC:::Control file; PC Installer
+CTF:::Character code translation file; Symphony
+CTL:::Control file; dBASE IV - Aldus Setup
+CTX:::Ciphertext file; Pretty Good Privacy RSA System
+CTX:::Course TeXt file; some Microsoft online guides
+CTX:::document; Creativyst Table eXchange
+CUF:::C Utilities Form definition; TCU Turbo C Utilities
+CUR:::Windows resource (cursor image file); Resource Workshop - WRT - Watcom Resource Editor
+CUT:::Graphics format (bitmapped graphics); dr. Halo
+CV4:::Color file; CodeView
+CVP:::Cover page; WinFax
+CVS:::Graphics; Canvas
+CVT:::Backup file for CONVERTed database file; dBASE IV
+CVW:::Color file; CodeView
+CWEB:::C Web;
+CWK:::Datafile; ClarisWorks, Appleworks
+CXX:::C++ source code file; Zortech C++
+D64:::Commodore 64 disk image
+DAA:::Direct Access Archive
+DAT:::Data file in special format or ASCII;
+DAT:::Database file; Clarion
+DB$:::Temperature debug info; Clarion Modula-2
+DB$:::Temporary file; dBASE
+DB:::Database file; Paradox - XTreeGold - dbvista
+DB:::Configuration; dBASE IV - dBFast
+DB:::Multi Edit config; ME
+DB2:::Database; dBASE II
+DB3:::Database; dBASE III
+DBA:::Database file; Turbo Prolog - DataEase
+DBA:::DarkBasic source code
+DBD:::Business data; Business Insight
+DBD:::Debug info; Clarion Modula-2
+DBF:::Database file; dBASE III/IV - FoxPro - dBFast - DataBoss - DBVista
+DBG:::Debugger script; DOS debug - Watcom debuger
+DBG:::Symbolic debugging information; MS C/C++
+DBK:::Database backup; dBASE IV
+DBM:::Datafile; DataEase
+DBM:::Menu template; DataBoss
+DBO:::Compiled program; dBASE IV
+DBPro:::DarkBasicPro Project
+DBS:::Data file used by Managing Your Money;
+DBS:::Database in SQL Windows format;
+DBS:::Datafile; PRODAS
+DBS:::Printer description file; MS Word - Works
+DBT:::FoxBASE+ style memo; FoxPro
+DBT:::Memo file for database w/same name; dBASE IV - dBFast
+DBW:::Windows file; DataBoss
+DBX:::DataBeam; GCGW
+DCA:::Document Content Architecture text file; IBM DisplayWrite
+DCF:::Disk image file;
+DCL:::Delphi Control Library; Borland Delphi
+DCM:::DCM music module; AWAVE
+DCP:::OS/2 device code page; OS/2
+DCS:::Bitmap graphics (CYMK format); QuarkXPress
+DCS:::Datafile; ACT! Activity Files
+DCT:::Dictionary: used by many programs with program dependent format; Clarion
+DCT:::Spell checking dictionary; Harvard Graphics 3.0 - Symphony
+DCU:::Delphi unit (compiled); Borland Delphi
+DCX:::Multi-page PCX graphics (common fax format); Intel - SpectraFAX
+DD:::Macintosh file archive; DISKDOUBLER
+DDB:::Bitmap graphics;
+DDI:::Disk image; DiskDupe
+DDP:::Device Driver Profile file; OS/2
+DDS:::Texture of; Adobe Photoshop 7.0
+DEB:::DEBUG script; DOS Debug
+DEF:::Assembly header file; Geoworks
+DEF:::Defaults - definitions;
+DEF:::Linker definition file; TLink - WLink...
+DEM:::Demonstration;
+DEM:::Digital Elevation Model;
+DEM:::Graphics file; VistaPro
+DEM:::Vista DEM file; Meta.exe VP3
+DES:::Ascii text parameter description; AWAVE
+DEV:::Device driver;
+DFD:::Data Flow Diagram graphic file; Prosa
+DFI:::Outline font description; Digifont
+DFL:::Default program settings; Signature
+DFM:::Data Flow Diagram model file; Prosa
+DFM:::Delphi form module; Borland Delphi
+DFS:::Delight Sound File;
+DFV:::Printing form (Word); MS Word
+DFX:::Micrografx Effects DLL;
+DGN:::Graphics file; MicroStation
+DGS:::Diagnostics;
+DH:::Dependency information for.ph; Geoworks
+DHP:::Dr. Halo PIC Format graphics file; Dr. Halo II - III
+DHT:::Datafile; Gauss
+DIA:::Diagraph graphics file; Computer Support Corporation
+DIB:::Device Independent Bitmap; rarely used Windows 3.0 bitmap; Win - OS/2
+DICTIONARY:::Dictionary (e.g. from WinWord);
+DIF:::Borland patch data file; Borland patch
+DIF:::Data Interchange Format; Visicalc
+DIF:::OS/2 V2.2 Display Information File; OS/2
+DIF:::Output from Diff command - script for Patch command;
+DIG:::Digilink; AWAVE
+DIG:::Sound Designer 1 audio file; AWAVE
+DIP:::Graphics;
+DIP:::Watcom debug info processor; WatcomDebugger
+DIR:::Dialing directory file; Procomm Plus
+DIR:::Directory file; VAX - CPS Backup
+DIR:::Movie; MacroMind Director 4.x
+DIS:::Distribution file; VAX Mail
+DIS:::Thesaurus; CorelDraw
+DIZ:::Description file (Description In Zip);
+DKB:::Raytraced graphics; DKBTrace
+DL:::Animation format (Italian origin); Display - DL Viewer
+DLD:::-----; Lotus 1-2-3
+DLG:::Dialog resource script file; MS Windows SDK
+DLG:::Dialog resources; DN
+DLG:::Digital Line Graph;
+DLG:::Windows SDK dialog editor data file;
+DLL:::Dynamic-link library; Windows 3.x - OS/2
+DLL:::Export/import filter; CorelDRAW
+DLS:::Setup; Norton Disklock
+DMF:::Music format (Delusion Digital Music File); Delusion
+DMG:::Mac OSX Disk Image Format
+DMO:::Demo; Derive
+DMP:::Dump file (eg. screen or memory);
+DMS:::Amiga file archive; DISKMASHER
+DM_#:::Quake-Based games Demo File
+DNT:::data; RSNetWorx Project
+DOC:::ASCII doc file;
+DOC:::Documento do Microsoft Office Word 97-2003
+DOCM:::Documento Habilitado para Macros do Microsoft Office Word
+DOCX:::Documento do Microsoft Office Word
+DOF:::Delphi project options file; Borland Delphi
+DOG:::Screen file; Laughing Dog Screen Maker
+DOH:::Dependency information for.poh; Geoworks
+DOS:::External command file; 1st Reader
+DOS:::Network driver (eg. pkt_dis.dos);
+DOS:::OS/2 V3 SVGA PMI-File; Svga.exe
+DOS:::Something for MS-DOS (e.g. msdos.dos); Win95
+DOS:::Text file containing DOS specific info;
+DOT:::Line-type definition file; CorelDRAW
+DOT:::Modelo do Microsoft Office Word 97-2003
+DOTX:::Modelo do Microsoft Office Word
+DOX:::Text file; MultiMate 4.0
+DOZ:::Description Out of Zip; VENDINFO
+DP:::Calendar file; Daily Planner
+DP:::Data file; DataPhile
+DPR:::Default project- and state-related information; Borland C++ - Delphi - C
+DPX:::Digital Moving Picture Exchange;
+DRG:::Extensão de som binaural que simula efeito de drogas no corpo
+DRP:::Web3D File; Web3D
+DRS:::Display Resource; WordPerfect for Win
+DRV:::Driver;
+DRW:::Designer vector graphics file; Designer - MicroGraphix
+DS:::TWAIN Data Source; Any twain-source must supply one xxx.ds file
+DS4:::Vector graphics; Micrografx Designer 4.x
+DSC:::Description file;
+DSC:::Discard file; Oracle
+DSD:::Database; DataShaper
+DSF:::Delusion Digital Sound File; Delusion
+DSK:::Desktop configuration; BP - DN - BC++ - TP
+DSK:::Disk Drivers; Novell NetWare
+DSM:::Digital Sound Module; DSI
+DSN:::Design; Object System Designer
+DSP:::Display parameters; Signature
+DSP:::Dynamic Studio Professional Module; Dynamic Studio
+DSP:::Graphics display driver; Dr. Halo
+DSP:::Norton viewer DLL; Win
+DSR:::Driver Resource; WordPerfect for Win
+DSS:::Screensaver file; DCC
+DSS:::Sound; Digital Soup
+DSS:::SQL Script for.Time Framework; Exaktime
+DST:::WAIN (Scanner spec) data source DLL; Win
+DSW:::Borland C++ 4.x desktop layout file; BCW.EXE
+DSY:::DAISY container file; ADAKTA.EXE
+DT_:::Data fork of a Macintosh file; Mac-ette
+DTA:::Data file; Turbo Pascal - PC-File - Stata
+DTB:::Database Backup for.Time Framework; Exaktime
+DTF:::Database file; PFS - Q&A
+DTM:::DigiTrekker music module; AWAVE
+DTO:::data; Directory Toolkit output
+DTP:::Document; Timeworks Publisher3
+DTP:::Page Magic 2.0 publication; Page Magic 2.0
+DTP:::Publication; Publish-It!
+DVC:::Data; Lotus 1-2-3
+DVI:::DeVice Independent document; TeX
+DVP:::DESQView run-file; DESQView
+DVP:::Device parameter file; AutoCAD
+DW2:::Drawing; DesignCAD for windows
+DWB:::Coryphaeus Software Designers Workbench; CSD
+DWC:::Archive; DWC
+DWD:::DiamondWare Digitized file; AWAVE
+DWG:::Drawing; AutoCAD - Drafix
+DX:::Text file; DEC WPS/DX format - DEC WPS Plus
+DXF:::Drawing Interchange File Format vector graphics (AutoCAD); AutoCAD
+DXN:::Fax; Fujitsu dexNET
+DXE:::Dexecutable File; TFS Network
+DYN:::Data; Lotus 1-2-3
+EAS:::Extended file attributes; OS/2
+EBJ:::Error-checking object file; Geoworks
+EBQ:::CITE standard electronic BQ exchange file
+EC:::Error checking preprosessed Goc source code; Geoworks
+ECC:::Error-checking file; dvdisaster
+ED5:::EDMICS; GCGW
+EDA:::Ensoniq ASR disk image; AWAVE
+EDE:::Ensoniq EPS disk image; AWAVE
+EDK:::Ensoniq KT disk image; AWAVE
+EDL:::EDL; Premiere
+EDQ:::Ensoniq sq1,2/ks32 disk image; AWAVE
+EDS:::Ensoniq SQ80 disk image; AWAVE
+EDT:::Default settings; VAX Edt editor
+EDT:::Ensoniq TS disk image; AWAVE
+EDT:::External editors definitions; DN
+EDV:::Ensoniq VFX-SD disk image; AWAVE
+EEB:::Button bar for Equation Editor; WordPerfect for Win
+EFA:::Ensoniq ASR file; AWAVE; Encrypted File Archive
+EFE:::Ensoniq EPS file; AWAVE
+EFE:::Ensoniq EPS instrument file; AWAVE
+EFK:::Ensoniq KT file; AWAVE
+EFQ:::Ensoniq SQ1/SQ2/KS32 file; AWAVE
+EFS:::Ensoniq SQ80 file; AWAVE
+EFT:::Ensoniq TS file; AWAVE
+EFT:::High resolution screen font; ChiWriter
+EFV:::Ensoniq VFX-SD file; AWAVE
+EFX:::Fax; Everex EFax
+EGA:::EGA display font; Ventura Publisher
+EKA:::Internal data files; Borland's Eureka
+EL:::ELISP source code file; Emacs lisp
+ELB:::Synergy/DE library
+ELC:::Compiled ELISP code; Emacs lisp
+ELI:::Archive; ELI
+ELT:::Event list text file; Prosa
+EMD:::ABT Extended MoDule; AWAVE
+EMF:::Microsoft Enhanced Metafile;
+EMU:::Terminal emulation data; BITCOM
+ENC:::Encoded file - UUENCODEd file; Lotus 1-2-3 - uuexe515.exe
+ENC:::Music; Encore
+END:::Arrow-head definition file; CorelDRAW
+ENFF:::Extended Neutral File Format;
+ENG:::Dictionary engine; Sprint
+ENG:::English documentation;
+ENG:::Graphics file (charting); EnerGraphics
+ENV:::Envelope or Environments;
+ENV:::Enveloper macro; WOPR
+ENV:::Environment file; WordPerfect for Win
+EPD:::Publication; Express Publisher
+EPI:::Document; Express Publisher
+EPI:::Encapsulated PostScript graphic file;
+EPS:::Encapsulated PostScript (Graphics format); CorelDraw - PhotoStyler - PMView - Adobe Illustrator - Ventua Publisher
+EQN:::Equation filE; WordPerfect for Win
+ERD:::Entity Relationship Diagram graphic file; Prosa
+ERL:::Erlang source code file
+ERM:::Entity Relationship Diagram model file; Prosa
+ERR:::Compiler/linker error report;
+ESH:::Extended Shell batch file;
+ETH:::Document; Ethnograph 3
+ETF:::Encrypted Text File. Used in some security programs.
+ETX:::Structure-enhanced text for some ascii text browsers;
+EUI:::Ensoniq EPS family CD image; AWAVE
+EVT:::Events descriptions;
+EVY:::Document; WordPerfect Envoy
+EWD:::Document; Express Publisher for Windows
+EX3:::Device driveR; Harvard Graphics 3.0
+EXC:::Exclude file for Optimize (do not process) (QEMM); QEMM
+EXC:::REXX source code file; VM/CMS
+EXE:::Directly executable program; DOS
+EXM:::MSDOS executable, system-manager compliant (HP calculator); HP calculator
+EXP:::Protected mode EXE by PharLap Software; PharLap
+EXT:::Extensions descriptions file;
+EXX:::Intermediate file by MsgPut; IBM LinkWay
+EZF:::Fax; Calculus EZ-Fax
+F:::Archive; FREEZE
+F:::Fortran language source file; NDP Fortran
+F01:::Fax; perfectfax
+F2R:::Farandole Linear Module; Farandole
+F3R:::Farandole Blocked Linear Module; Farandole
+F77:::FORTRAN 77 source code file;
+F96:::Fax; Frecom FAX96
+FAC:::see FACE;
+FACE:::Usenix FACE graphics file;
+FAM:::Famtasia Famicom image format; Famtasia
+FAQ:::Frequently Asked Questions text file;
+FAR:::Music format (Farandole Composer Module); Farandole
+FAS:::Macsyma compiled program;
+FAX:::Fax (raster graphics in CCITT format); most Fax programs
+FBM:::Fuzzy Bitmap;
+FC:::Spell checking dictionary; Harvard Graphics 2.0
+FCM:::Binary file patch file (forward compression); jlpak10.zip
+FD:::Declaration file; MS Fortran
+FD:::Field offsets for compiler; DataFlex
+FD:::Front Door' resource files; FD
+FDS:::fwNES Famicom Disk System image; fwNES
+FDS:::Headerless Famicom Disk System image;
+FDW:::Form; F3 Design and Mapping
+FEB:::Button bar for Figure Editor; WordPerfect for Win
+FEI:::Fatal Error Infotable; Geoworks
+FES:::File produced when a fileless occurrence in 3D Topicscape is exported to Windows
+FF:::Intelligont FIAS format;
+FF:::Outline font description; Agfa Compugraphics
+FFE:::Front Fareast Famicom image format;
+FFF:::Fax; defFax
+FFI:::Atech FastFont (AllType);
+FFIVW:::File Format for the Interchange of Virtual Worlds;
+FFT:::Dca/FFT Final Form Text text file (DisplayWrite);
+FFT:::DCA/FFT Final Form Text text file; DisplayWrite
+FH3:::Vector graphics; Aldus FreeHand 3.x
+FH4:::Vector graphics; Aldus FreeHand 3.x
+FI:::Interface file; MS Fortran
+FIF:::Fractal Image Format file;
+FIL:::File template; Application Generator
+FIL:::Filelist;
+FIL:::Files list object file; dBASE Application Generator
+FIL:::Mirror. FIL is the name given to the saved FAT by the mirror program included in some versions of DOS and in PCTools; MS-DOS -
+FIL:::Overlay; WordPerfect
+FIL:::File which was moved to the Virus Vault by AVG
+FIN:::Print-formatted text file; Perfect Writer - Scribble - MINCE
+FIO:::Aldus PhotoStyler graphics filter;
+FIO:::Image PALS viewer DLL;
+FIT:::File Index Table; WindowsNT
+FIT:::see FITS;
+FITS:::Flexible Image Transport System;
+FIX:::Patch file;
+FKY:::Macro file; FoxPro
+FLAC:::Free Lossless Audio Codec
+FLB:::Format library; Papyrus
+FLC:::Animation format FLIC >320x200; AAPlay - Autodesk AniPro
+FLD:::Folder; Charisma
+FLI:::Animation format FLIC 320x200; Autodesk Animator
+FLI:::TeX font library; EmTeX
+FLM:::Film Roll; AutoCAD/AutoShade
+FLT:::Data/file conversion filter (or overlay); Alsud - MS Word
+FLT:::Filter file; Micrografx Picture Publisher
+FLT:::MultiGen Flight;
+FLT:::Support file - graphics filter; Asymetrix ToolBook
+FLX:::Animation format;
+FLX:::Compiled binary; DataFlex
+FM:::Spreadsheet; FileMaker Pro
+FM1:::Spreadsheet; Lotus 1-2-3 release 2.x
+FM3:::Device driver; Harvard Graphics 3.0
+FM3:::Spreadsheet; Lotus 1-2-3 release 3.x
+FMB:::File Manager Button bar; WordPerfect for Win
+FMF:::Font or icon file; IBM LinkWay
+FMK:::Makefile; Fortran PowerStation
+FMO:::Compiled format file; dBASE IV
+FMT:::Format file; dBASE IV - FoxPro - Clipper 5 - dBFast
+FMT:::Gate3 format file;
+FMT:::Style sheet; Sprint
+FMV:::Full Motion Video file;
+FN3:::Font file; Harvard Graphics 3.0
+FND:::Files searching properties; Win95
+FNK:::FunkTracker music module; AWAVE, FunkTracker
+Fnn:::DOS screen text font - height nn pixels; fntcol13.zip
+FNT:::Font file; many
+FNX:::Inactive font; Exact
+FO1:::Font file; Borland Turbo C
+FO2:::Font file; Borland Turbo C
+FOG:::Fontographer Database File; Fontographer3.5
+FOL:::Folder of saved messages; 1st Reader
+FON:::Log of all calls; Procomm Plus
+FON:::Terminate phonebook; Terminate - Terminator - Telix
+FON:::Windows bitmapped font file; Win
+FONT:::Font data; unix
+FOP:::Freedom of the Press graphic file;
+FOR:::Form; WindowBase
+FOR:::Fortran language source file; MS Fortran - Watcom Fortran
+FOT:::Installed Truetype font; Windows Font Installer
+FOX:::Foxbase executable (precompiled.prg); FoxBase
+FP:::Configuration file; FoxPro
+FPC:::Catalog; FoxPro
+FPD:::TMT Pascal compiled unit; TMT Pascal
+FPT:::Foxpro memo field tables; FoxPro
+FPW:::Floorplan drawing; FloorPLAN plus for Windows
+FR?:::Packed mail; FTN software
+FR3:::Renamed dBASE III+ form file; dBASE IV
+FRE:::Creative Digital Blaster Digital VCR File
+FRE:::Fifa 2002 Data Legal Screen File
+FRE:::Male Normal CT
+FRF:::FontMonger Database file; FontMonger
+FRG:::Uncompiled report file; dBASE IV;
+FRL:::GP-Forth library; GP-Forth;
+FRM:::Registration or other form;;
+FRM:::Report file; dBASE IV - Clipper 5 - dBFast;
+FRM:::Visual Basic Form; Visual Basic;
+FRO:::Compiled report file; dBASE IV;
+FRP:::Form; PerForm PRO Plus - FormFlow;
+FRS:::Screen Font Resource; WordPerfect for Win;
+FRT:::Additional (FPT) report description file; FoxPro;
+FRT:::GP-Forth source file; GP-Forth;
+FRX:::Main (DBF) report description file; FoxPro;
+FRX:::Visual Basic binary program file; Visual Basic;
+FSL:::Form; Paradox for Windows;
+FSM:::Farandole Composer WaveSample; Farandole;
+FST:::Linkable program; dBFast;
+FSX:::Data; Lotus 1-2-3;
+FTM:::Font file; Micrografx
+FTXT:::text; Cloanto text document
+FTP:::Configuration; FTP Software PC/TCP
+FW:::Database; FrameWork
+FW2:::Database; Framework II
+FW3:::Database; Framework III
+FWEB:::Fortran WEB;
+FX:::On-line guide; FastLynx
+FXD:::Phonebook; FAXit
+FXP:::Foxpro executable (precompiled.prg); FoxPro
+FXS:::FAX Transmit Format graphics file; WinFax
+G:::Data chart; APPLAUSE
+G16:::GoldED for DOS compiled config; GOLDED.EXE
+G3P:::data; Grand Prix 3 car physics
+G8:::Raw graphics file (one byte per pixel) plane three; PicLab - Cubicomb Picturemaker
+GAM:::Fax; GammaFax
+GB1:::Game Maker backup file (can also be GB2, GB3, etc.)
+GBA:::Game Boy Advance Rom
+GBL:::Global definitions; VAXTPU editor
+GBL:::Global module in Basic programs;
+GBR:::GIMP brush
+GC1:::Lisp source code; Golden Common Lisp 1.1
+GC3:::Lisp source code; Golden Common Lisp 1.3
+GCA:::IBM GOCA; GCGW
+GCD:::Graphics;
+GD3:::Game Doctor Super NES ROM image
+GDF:::Dictionary file; GEOS
+GDS:::McDonnell-Douglas Things;
+GE:::GEcho config file; GEcho
+GED:::EDITOR's native file format; Arts & Letters
+GED:::GoldED for DOS compiled config file; GOLDED.EXE
+GED:::Graphics editor file; EnerGraphics
+GEM:::Vector graphics file; GEM - Ventura Publisher
+GEN:::Compiled template; dBASE Application Generator
+GEN:::Generated text; Ventura Publisher
+GEO:::Geode; Geoworks
+GEO:::GEOS specific file (application); GEOS
+GEO:::GoldED for OS/2 compiled config file; GED2.EXE
+GEX:::GEcho config file; GEcho
+GFB:::Compressed GIF image created by GIFBLAST; gifblast.exe
+GFO:::SGI Radiosity;
+GFT:::Font; NeoPaint
+GFT:::GEM-translator font file;
+GFX:::Instant Artist graphics Files; Instant Artist
+GFX:::PCBoard @X-coded colorful text; GFX2COM - GFX2EXE
+GIB:::Chart; Graph-in-the-Box
+GIB:::GIMP animated brush
+GID:::Help index; windows 95 help
+GIF:::Compuserves' Graphics Interchange Format (bitmapped graphics); QPeg - Display - CompuShow
+GIW:::Presentation; Graph-in-the-Box for Windows
+GKH:::Ensoniq Disk Image (VFX, SD, EPS, ASR, TS); Ensoniq
+GKS:::Graphics Kernel System;
+GL:::Animation format; grasprt.exe, PV
+GL:::Animation; GRASP GRAphical System for Presentation
+GLB:::Global module in Basic programs;
+GLM:::Datafile; Glim
+GLO:::Global module in Basic programs;
+GLS:::Datafile; Across
+GLY:::Winword Glossary; MS Word
+GM6:::Game Maker Editable file as of version 6.x
+GMD:::Game Maker Editable file up to version 5.x
+GMF:::CGM graphics file; APPLAUSE
+GMK:::Game Maker Editable file as of version 7.x
+GMP:::Geomorph tile map; SPX
+GMS:::Ghost Mouse Script
+GMS:::Gesture and Motion File Formats
+GOC:::Goc source code file; Geoworks
+GOE:::GOES graphic file;
+GOH:::Goc header file; Geoworks
+GP:::Geode parameter file; Geoworks Glue
+GPH:::Graph; Lotus 1-2-3/G
+GPK:::Omnigo program package;
+GR2:::Screen driver; Windows 3.x
+GRA:::Datafile; SigmaPlot
+GrADS:::Metafile;
+GRASP:::Graphical System for Presentation;
+GRB:::MS-DOS Shell Monitor file; MS-DOS 5
+GRD:::Drivers for GRX (graphics library); GRX (c) Free Soft. Found.
+GRE:::data; Grenoble Thermal Ellipsoids Plot Program
+GRF:::Graph file; Graph Plus - Charisma
+GRIB:::Gridded Binary;
+GRN:::Drivers for GRX (graphics library); GRX (c) Free Soft. Found.
+GRP:::Group file; Windows 3.x - Papyrus
+GRP:::Pictures group; PixBase
+GRY:::Graphics format (RAW GREYz);
+GS1:::Presentation; GraphShow
+GSA:::data; Microsoft Office Groove Space Archive
+GSD:::Vector graphics; Professional Draw
+GSM:::Raw GSM 6.10 audio stream; AWAVE
+GSW:::Worksheet; GraphShow
+GTA:::data; Microsoft Office Groove Tool Archive
+GUP:::-----; PopMail
+GV:::GrandView outline file;
+GWI:::Groupwise File; Local saved Email
+GXL:::Graphics library; Genus
+GZ:::Archive; GNU zip - WinZipNT
+GZR:::data; GunZ action replay
+H!:::On-line help file; Flambeaux Help! Display Engine
+H!:::Pertext database; HELP.EXE
+H--:::C-- language header; Sphinx C--
+H:::Header file (usually C language); Watcom C/C++
+H++:::Header file; C++
+HA:::Archive; HA
+HAL:::Data file; Hyper Access Lite OS/2
+HAM:::Disk Drivers NPA; Novell NetWare
+HAP:::Archive; HAP3
+HBK:::MathCAD handbook; MathCAD
+HC:::Header file;
+HDD:::data; disk image
+HDD:::HotDisc Designer label
+HDF:::Amiga Hard Disk Image
+HDF:::Help file; Help Development Kit
+HDF:::Hierarchical Data File graphics file; SDSC Image Tools
+HDL:::Alternate download file listing; Procomm Plus
+HDR:::Datafile; Egret
+HDR:::Message header text; Procomm Plus - 1st Reader
+HDR:::PC-File+ Database header;
+HDR:::SPOT image file;
+HDS:::Hierarchical Data System;
+HDW:::Vector graphics; Harvard Draw
+HDX:::Help index; AutoCAD - Zortech C++
+HDZ:::Amiga Zip compressed Hard Disk Image
+HEP:::Novell Help Librarian Data File; Novell NetWare
+HEX:::Hex dump;
+HFI:::HP Font Info file; GEM
+HGL:::Highlight groups definitions; DN
+HGL:::HP Graphics Language graphics file;
+HH:::C++ header file;
+HHH:::Precompiled header file; Power C
+HHP:::Help information for remote users; Procomm Plus
+HI:::Game high scores table;
+HIN:::Molecule; HyperChem
+HIS:::History of executing/viewing/editing; DN
+HLB:::Help library; VAX
+HLP:::Help file;
+HLX:::Multi Edit help file; MultiEdit 5.0
+HLZ:::Multi Edit packed help file; MultiEdit
+HMI:::Music format (MIDI);
+HMM:::Alternate Mail Read option menu; Procomm Plus
+HMP:::Music format (MIDI);
+HNC:::CNC program files Heidenhain (?) dialog;
+HOF:::Hall Of Fame (game scores);
+HP:::Printout file for HP printers/plotters (HP/GL);
+HP8:::ASCII text HP Roman8 character set; NewWave Write
+HPF:::HP LaserJet fonts; PageMaker
+HPG:::see HPGL;
+HPGL:::Plotter file vector graphics (Hewlett-Packard Graphics Language); AutoCad - Harvard Graphics
+HPI:::Font information file; GEM
+HPJ:::Help project; MS Help Compiler for Windows - HC. EXE
+HPK:::Archive; HPACK
+HPM:::Alternate Main menu for privileged users; Procomm Plus
+HPM:::EMM text; HP NewWave
+HPM:::High Performance Map; Quaestor 1.x
+HPP:::C++ header file; Zortech C++ - Watcom C/C++
+HPPCL:::Hewlett-Packard Printer Control Language;
+HQX:::Archive (ASCII Mac); BINHEX
+HRF:::Graphics file (Hitachi Raster Format);
+HRM:::Alternate Main menu for limited/normal users; Procomm Plus
+HRZ:::Graphics format; SSTV
+HS2:::Monochrome image; Postering
+HSC:::2-op FM music; HSC tracker - hscplay.exe
+HSI:::Handmade Software Inc. graphics file almost JPEG; Image Alchemy
+HST:::History file; Procomm Plus
+HTM:::see HTML;
+HTML:::Hypertext Markup Language (WWW); Netscape - Mosaic - many
+HTX:::Hypertext file;
+HWD:::Presentation; Hollywood
+HWP:::Hangul Word Processor Document; Hangul (word processor)
+HXM:::Alternate Protocol Selection menu for all users; Procomm Plus
+HXX:::C++ header file;
+HY1:::Hyphenation algorithms; Ventura Publisher
+HY2:::Hyphenation algorithms; Ventura Publisher
+HYC:::Data; WordPerfect
+HYD:::Hyphenation dictionary; WordPerfect for Win
+HYP:::Archive; HYPER
+I:::Preprocessor output file; Borland C Preprocessor
+IAM:::Assembly file; Autodesk Inventor
+IAX:::Bitmap graphics (IBM Image Access eXecutive);
+IAX:::data; InstallAnywhere.NET project;
+IBG:::PDS graphic file;
+IBM:::Archive (Internal IBM only); ARCHDOS
+ICA:::Bitmap graphics (Image Object Content Architecture);
+ICB:::Bitmap graphics;
+ICC:::ICC configuration;
+ICE:::Archive; Cracked LHA (old LHA)
+ICM:::ICC configuration;
+ICN:::ICON source code file;
+ICO:::Icon file; ICONEDIT.EXE
+ID:::Disk identification file;
+IDB:::IDA database; IDA
+IDC:::IDA C language source; IDA
+IDE:::Borland C++ 4.x IDE project; BCW.EXE
+IDF:::MIDI instrument description;
+IDS:::IDA imported names format; IDA
+IDW:::Vector graphics; IntelliDraw
+IDW:::Drawing file; Autodesk Inventor
+IDX:::Index; many - FoxPro
+IFD:::Form; JetForm Design
+IFF:::Interchange Format File (IFF); EA Software - Convert (C) Villena - Amiga
+IFF:::Sun TAAC Image File Format; SDSC Image Tool
+IFP:::Script; KnowledgeMan
+IFS:::Fractal image compressed file; Yuvpak
+IFS:::Installable file system; OS/2
+IGES:::Initial Graphics Exchange Specification;
+IGF:::Inset Systems; GCGW
+IHP:::Watcom help file; whelp.exe
+IHS:::Inbound History; Bink/+
+IIW:::Power Point Image Importer Wizard
+IL:::hDC Designer Icon Lin Dll format;
+ILB:::Data; Scream Tracker
+ILG:::data; LaTeX Index Generation log
+ILK:::Outline of program's format; MS ILink incremental linker
+IM8:::Sun raster graphics file;
+IMA:::Mirage vector graphics; EGO - Chart - Autumn
+IMG:::ADEX graphic file;
+IMG:::Disk Image; NC 5.0
+IMG:::GEM bitmapped graphics file; Ventura
+IMI:::image; Magellan Meridian map
+IMG:::Vivid IMG file;
+IMI:::image; Magellan eXplorist map
+IMP:::Spreadsheet; Lotus Improv
+IMQ:::Image presentation; ImageQ
+IN$:::Installation file; HP NewWave
+IN3:::Input device driver; Harvard Graphics 3.0
+INB:::Test script; Vermont HighTest
+INC:::Include file; several programming languages
+IND:::Data Index; dBASE IV
+INF:::Information text file (ASCII);
+INF:::Install script;
+INF:::OS/2 hypertext help system file; VIEW.EXE
+INF:::Type 1 LaserJet font information file; soft font installers
+INFO:::GNU info reader (output from texinfo); unix
+INFO:::Icon Data (Amiga);
+INGR:::Intergraph Raster File Format;
+INI:::Initialization file;
+INK:::Pantone reference fills file; CorelDRAW
+INS:::Data; WordPerfect
+INS:::Ensoniq Instrument File; Ensoniq
+INS:::Installation script; 1st Reader
+INS:::Instrument music file (Adlib);
+INT:::Borland Interface Units;
+INT:::Program saved in Internal (semi-compiled) format; Signature
+INT:::Source of Borland interface module;
+INX:::Index; Foxbase
+IO:::Archive; CPIO
+IOB:::3d graphics database in TDDD format;
+IOC:::Organizational chart; Instant ORGcharting!
+ION:::4DOS descript.ion file (file descriptions); 4DOS
+IP:::Immortal Player file; Immortal Player
+IPF:::Interchangeable Preservation Format; http://softpres.org/glossary:ipf
+IPG:::iPod game file; iTunes and iPod
+IPL:::Pantone Spot reference palette file; CorelDRAW
+IPT:::Part file; Autodesk Inventor
+IRS:::Resource (WordPerfect) standard.irs; WordPerfect
+IRTR:::Graphicon-2000 Interactive Real-Time PHIGS;
+ISD:::Spelling Checker dictionary; RapidFile
+ISH:::Archive; ISH
+ISO:::ISO-9660 table;
+IST:::Digitrakker Instrument File; AWAVE
+IT:::Impulse Tracker music file; Impulse Tracker
+IT:::Settings; intalk
+ITF:::Interface file; JPI TopSpeed Pascal
+ITL:::iTunes music library
+IV:::SGI Inventor;
+IV-VRML:::Inventor VRML Format;
+IVE:::OpenSceneGraph 3D model
+IW:::Presentation flowchart; IconAuthor - HSC InterActive
+IWA:::Text file; IBM Writing Assistant
+IWP:::Text file; Wang
+IX:::data; dtSearch index
+IZT:::Izl binary token file; IZL
+J2C:::JPEG 2000 image;
+JAD:::"Resumo" do JAR
+JAM:::Jam messagebase; FTN software
+JAR:::Archive; JAR. Java Games and Applications
+JAS:::see JASC;
+JASC:::Graphics format (JASC);
+JAV:::see JAVA;
+JAVA:::Java source code file;
+JBD:::Datafile; SigmaScan
+JBIG:::Joint Bilevel Image Group;
+JBX:::Project file; Project Scheduler 4
+JCN:::JobClock.Net Synch File
+JET:::Fax; Hybrid JetFax
+JFF:::see JFIF;
+JFIF:::JPEG File Interchange Format;
+JIF:::see JFIF;
+JMS:::Music format (JMusic file); UltraForce
+JOR:::Journal file SQL;
+JOU:::Journal backup; VAX Edt editor
+JP2:::JPEG 2000 image;
+JPC:::Graphics; Japan PIC
+JPEG:::Graphics file JPEG Joint Photography Experts Group format; QPeg - FullView - Display
+JPG:::see JPEG;
+JS:::JScript script file; Javascript
+JTF:::Fax; Hayes JT Fax
+JTF:::Graphics (TIFF file with JPEG compression);
+JW:::Text document; JustWrite
+JWL:::Library; JustWrite
+JZZ:::Spreadsheet; Jazz
+K3D:::Description of macro language 3DS; 3DS
+KAR:::Music format (Karaoke);
+KAR:::Precompiled.prg for KARAT; Rus. FOX+ 2.0
+KB:::Keyboard script; Borland C++ 4.5
+KB:::Program source; Knowledge Pro
+KBD:::Keyboard mapping; LogoScript - Signature - Procomm Plus
+KBM:::Keyboard mapping; Reflection 4.0
+KCL:::Lisp source code; Kyoto Common Lisp
+KCT:::Database; Sterle Database
+KDC:::Kodak Digital Camera (graphics); PhotoEnhancer by PictureWorks
+KEX:::Kedit Macro File; Kedit
+KEY:::Datafile; Forecast Pro
+KEY:::Keyboard macros;
+KEY:::OS/2 archive.key-file (i.e. OS2.KEY); OS/2
+KEY:::Security file eg. Shareware Registration info;
+KFX:::Kofax Group; GCGW
+KIT:::Power Chords drum kit file; Power Chord
+KMC:::KatzReview's MegaCrammer
+KML:::Kedit Macro Library;
+KMY:::data; KMyMoney
+KMZ:::Google Earth Placemark File
+Knn:::Database key file; Clarion
+KPP:::Toolpad; SmartPad
+KPS:::IBM KIPS bitmap graphics;
+KR1:::Kurzweil 2000 sample file; AWAVE
+KR2:::Kurzweil 2000 sample file; AWAVE
+KRZ:::Kurzweil K2000 File; Kurzweil
+KYB:::Keyboard mapping; FTP Software PC/TCP
+L:::LEX source code file;
+L:::Linker directive file; WATCOM wlink
+L:::LISP source code file;
+LAB:::Datafile; NCSS - SOLO
+LAB:::Mailing labels; Q+E for MS Excel
+LAN:::Erdas image file;
+LAN:::LAN Drivers; Novell NetWare
+LAY:::Word chart layout; APPLAUSE
+LBG:::Label generator data; dBASE IV
+LBL:::Label; dBASE IV - Clipper 5 - dBFast
+LBM:::Graphics format (Amiga); Pic-view - Deluxe Paint
+LBM:::Linear bitmap graphics; XLib
+LBO:::Compiled label; dBASE IV
+LBR:::.LBR Archive; forCP/M and MS-DOS using the LU program
+LBR:::Display driver; Lotus 1-2-3
+LBT:::Additional (FPT) label description file; FoxPro
+LBX:::Main (DBF) label description file; FoxPro
+LCF:::Linker Control File; Norton Guides compiler
+LCH:::Chart; IBM Works for OS/2
+LCK:::Lockfile; Paradox
+LCL:::Data (FTP Software PC/TCP);
+LCL:::Data; FTP Software PC/TCP
+LCN:::Lection; WordPerfect
+LCS:::Datafile; ACT! History Files
+LCW:::Spreadsheet; Lucid 3-D
+LD:::Long Distance codes file; Telix
+LD1:::Overlay file; dBASE
+LDB:::Data filer database; IBM Works for OS/2
+LDB:::Overlay file; MS Access
+LDF:::Data filer form; IBM Works for OS/2
+LDF:::Library definition file; Geoworks Glue
+LE:::DOS/4GW executable image; DOS/4GW PM 32X DOS Extender
+LES:::Lesson (check *.cbt);
+LEV:::Level file; NetHack 3.x
+LEX:::Dictionary; MS Word - Lexicon
+LFL:::LucasArts resource file;
+LFD:::LucasArts resource file; LucasArts games
+LFT:::Laser printer font; ChiWriter
+LG:::Logo procedure definitions; LSRHS Logo
+LGO:::Logo for header and footer; SuperFax
+LGO:::Startup logo code; Windows 3.x
+LHA:::Archive; LHA/LHARC
+LHW:::Amiga archive; LHWARP
+LIB:::Library file; several programming languages
+LIC:::License file used by some programs to put their license on disk;
+LIF:::Archive;
+LIF:::CA Clipper packed file; CA Clipper installer
+LIF:::Logical Interchange Format data file; Hewlett-Packard
+LIM:::Archive; LIMIT
+LIN:::Line types; AutoCAD
+LIS:::Listing; VAX
+LIT:::Web3D File; Web3D
+LJ:::Text file for HP LJ II printer;
+LL3:::LapLink III related file (document); LapLink III
+LMP:::Demo for Doom (computer 3d game); Doom - Doom2
+LNG:::Language definition file;
+LNK:::Linker response file;.RTLink
+LNK:::Linker script;
+LNK:::Windows 95 shortcut; Windows 95
+LNK:::Windows XP shortcut; Windows XP
+LOD:::Load file;
+LOG:::Log file;
+LPC:::Printer driver; TEKO
+LRC:::Lyrics data
+LRF:::Linker response file; MS C/C++
+LRP:::Report; IBM Works for OS/2
+LRS:::Language Resource File; WordPerfect for Win
+LSA:::Lightscape Technologies ASCII;
+LSB:::Lightscape Technologies Binary;
+LSP:::LISP language source (autoLISP);
+LSP:::LISP source code file; Xlisp
+LSS:::Spreadsheet; Legato - IBM Works for OS/2
+LST:::Filelist; FRQView
+LST:::Keyboard macro; 1st Reader
+LST:::List file (archive index - compiler listfile);
+LST:::Listing (e.g. source code);
+LST:::Spool file; Oracle
+LTM:::Form (Lotus Forms); Lotus
+LVL:::LEVEL - usado muito em jogos, como por exemplo o Armadillo run
+LWD:::Text document; LotusWorks
+LWOB:::Lightwave Object Format;
+LWP:::Word processor; IBM Works for OS/2
+LXF:::Lego Exchange Format; Lego Digital Designer data file
+LYR:::Lyrics (ASCII);
+LZD:::Difference file for binaries; LDiff 1.20
+LZH:::Archive; LHA/LHARC
+LZS:::Archive; LARC
+LZW:::Archive; LHWARP
+M:::Macro module; Brief
+M:::Source file for Mathematica and MatLab;
+M_U:::Backup of boot sector, FAT and boot dir; MazeGold
+M11:::Text file; MASS11
+M3:::MODULA 3 source code file;
+M3D:::3D animation macro;
+M3U:::MPEG-3 standard Playlist file; XING
+M4:::M4 preprocessor file; unix
+M4A:::MPEG layer 4, audio
+MA:::hDC products for MicroApp executable files; MicroApp
+MA:::Used by Mathematica for its notebooks; Mathematica
+MA3:::Macro; Harvard Graphics 3.0
+MAC:::Bitmap graphics file; Macintosh MacPaint
+MAC:::Macro file; Multi Edit
+MAG:::Woody Lynn's MAG graphics format; MPS Magro Paint System
+MAH:::Mahjongg Solitaire settings file; Mahjongg Solitaire 2.00
+MAI:::Mail; VAX
+MAK:::Makefile;
+MAK:::Project file; VB - VC ++
+MAN:::User guide (manual);
+MAP:::Color palette file;
+MAP:::Format data; Micrografx Picture Publisher
+MAP:::Linker map file;
+MAP:::Map file (usually created by compilers);
+MAP:::Map; Atlas MapMaker
+MAP:::Network map; AccView
+MAP:::Game map for Duke Nukem 3D
+MAR:::Assembly program; VAX Macro
+MAS:::SmartMaster set; Freelance Graphics
+MAT:::Data; MatLab
+MAX:::extensão nativa do software de modelagem 3D 3D Studio Max. É um arquivo que armazena informações sobre objetos ou ambientes 3D (formas, propriedades de material, fontes de luz, etc.).
+MB:::Memo field values for database; Paradox
+MBK:::Multiple index file backup; dBASE IV
+MBX:::Mailbox data; Eudora/ZERBERUS
+MCC:::Configuration file; Mathcad
+MCD:::MathCad file; MathCad
+MCF:::Font file; Mathcad
+MCI:::MCI command script; Media Control Interface
+MCL:::Multi Edit macro library; Multi Edit
+MCL:::Cartesian manipulator for laser systems
+MCP:::Application script; Capsule
+MCP:::Printer driver; Mathcad
+MCW:::Text file; MacWrite II
+MD:::Archive; mdcd10.arc
+MDA:::Data; MS Access
+MDA:::MS Access system database; MS Access
+MDB:::Microsoft DataBase; Microsoft Access
+MDF:::Several uses
+MDL:::Model; 3D Design Plus or Simulink
+MDL:::Spreadsheet; CA-Compete!
+MDM:::Modem definition file; TELIX
+MDR:::Microdrive file; ZX Spectrum emuulator by g.a.lunter
+MDS:::Midi Session; Sound Imp.
+MDT:::Data table; MS ILink incremental linker
+MDX:::Multiple index file; dBASE IV
+MDZ:::Text description of music module; Cubic Player - Cross-View
+ME:::MultiEdit configuration; MultiEdit
+ME:::Text file READ.ME;
+MEB:::Macro Editor bottom overflow file; WordPerfect Library
+MEC:::MECCA source; Maximus
+MED:::Macro Editor delete save; WordPerfect Library
+MED:::Music format; MED/OctaMED
+MEM:::Macro Editor macro; WordPerfect Library
+MEM:::Memory variable save file; dBASE IV - FoxPro - Clipper
+MEM:::Memos datafile; Clarion
+MEQ:::Macro Editor print queue file; WordPerfect Library
+MER:::Macro Editor resident area (vakioalue); WordPerfect Library
+MES:::Macro Editor work space file; WordPerfect Library
+MES:::Message;
+MET:::Document; Omnipage Pro
+MET:::Macro Editor top overflow file; WordPerfect Library
+MET:::OS/2 graphics metafile; PICVIEW.EXE
+MEU:::Menu group; DOS Shell
+MEX:::Macro Editor expound file; WordPerfect Library
+MEX:::MEX file (executable command); Matlab
+MF:::Metafont file; TeX
+MFF:::MIDI; Cakewalk, MTPro 4
+MFM:::Music format; DMP
+MGF:::Font; Micrografx
+MGF:::Materials and Geometry Format;
+MGX:::Designer 4.1 Drawing; Designer 4.1
+MHT:::Web Archive Single File
+MIB:::Snmp MIB file;
+MID:::Standard MIDI file; music synthetizers
+MIDI:::See MID
+MIFF:::Magick Image File Format;
+MII:::Datafile; MicroStat-II
+MIME:::Message in MIME format (RFC822);
+MIS:::Mission, used by many games;
+MIX:::Object file; Power C
+MK:::Makefile;
+MK:::Makefile;
+MK:::Usually makefile;
+MKA:::Arquivo de Áudio Matroska;
+MKE:::Makefile; MS Windows SDK
+MKG:::Makefile;
+MKI:::Graphics format (Japan MKI);
+MKI:::Japanese graphics MAKIchan format; MagView 0.5
+MKS:::Data; TACT
+MKV:::Arquivo de Vídeo Matroska;
+ML3:::Project; Milestones 3.x
+MLB:::Macro library file; Symphony
+MLI:::3DS Materials Libraries; 3D Studio
+MLV:::LabVIEW MathScript
+MM:::Text file; MultiMate Advantage II
+MMF:::Mail message file; MS Mail
+MMM:::Multimedia movie file, RIFF RMMP format; MacroMind Director 3.x
+MMO:::Memo writer file; RapidFile
+MMP:::Output video format from Bravado board;
+MND:::Menu source; AutoCAD Menu Compiler
+MNG:::Map; DeLorme Map'n'Go
+MNT:::Additional (FPT) menu description file; FoxPro
+MNT:::Menu memo; FoxPro
+MNU:::Advanced macro file; HP NewWave
+MNU:::Menu; AutoCAD Menu Compiler - Norton Commander - Signature
+MNU:::Microsoft Mouse menu (for DOS apps);
+MNX:::Compiled menu file; AutoCAD
+MNX:::Main (DBF) menu description file; FoxPro
+MNY:::Account book; MS Money
+MO?:::Packed mail; FTN software
+MOB:::Device definition file; PEN Windows
+MOD:::Modula language source;
+MOD:::MODULA-2 source code file; Clarion Modula-2
+MOD:::Module -- used by Windows for DLL which implement DOS support; Win
+MOD:::Music format (Amiga module); DMP - ST - MDP - VP
+MOL:::MOD4WIN PlayList; Mod4Win
+MOL:::Molecule;
+MON:::Monitor description; ReadMail
+MOV:::Animation format (Mac); QuickTime
+MOV:::Movie file; AutoCAD AutoFlix
+MP2:::Mpeg audio file; xing
+MP3:::MPEG audio stream, layer 3; AWAVE, CoolEdit(+PlugIn)
+MP4:::MPEG video, layer 4; may also be MPEG layer 4 audio
+MPA:::MPEG audio stream, layer 1,2,3; AWAVE
+MPC:::Calendar file; MS Project
+MPEG:::Animation format; MPEG Player
+MPG:::see MPEG;
+MPI:::Mep Installer Project Script;
+MPL:::MediaRack Midi Playlist; MediaRack
+MPM:::MathPlan macro; WordPerfect Library
+MPP:::Project file; MS Project
+MPR:::Generated executable menu file; FoxPro
+MPS:::Max Payne Save Game File
+MP2S:::Max Payne 2 Save Game File
+MPT:::Bitmap graphics (Multipage TIFF);
+MPV:::View file; MS Project
+MPX:::Compiled executable menu file; FoxPro; Video format
+MRB:::Multiple Resolution Bitmap graphics file; MS C/C++
+MRK:::Windows User Benchmark; Win95
+MRS:::Macro Resource file; WordPerfect for Win
+MS:::Microsoft antivirus report; MSAV
+MSC:::Microsoft C makefile;
+MSI:::Windows Installer Package; Windows Operating Systems
+MSDL:::Manchester Scene Description Language;
+MSG:::Message base (e.g. HMB);
+MSG:::Message text file (ASCII);
+MSG:::ZVoice digitized voice file;
+MSP:::Bitmap graphics file; Microsoft Paint
+MSP:::Graphics format; Microsoft Paint
+MSQM:::data; Microsoft Message Queuing
+MSS:::Manuscript text file; Perfect Writer - Scribble - MINCE - Jove
+MST:::Document; MS Test
+MST:::Minispecification file; Prosa
+MST:::Setup script file; MS Windows SDK
+MSW:::Text file; MS Word
+MSX:::CP/M archive; MSX
+MTH:::Math file; Derive
+MTL:::Wavefront;
+MTM:::Music format; MultiTracker
+MTS:::Master Track Pro Files; MTPro 4
+MTV:::MTV Ray Tracer graphic file;
+MTW:::Datafile; Minitab
+MU:::Quattro pro for DOS Menu definition file; Quattro Pro
+MUS:::Music format (MIDI in Doom);
+MUS:::Sound file; MusicTime
+MVF:::Stop frame file; AutoCAD AutoFlix
+MVI:::Movie command file; AutoCAD AutoFlix
+MVW:::Log file; Saber LAN
+MWF:::Animation; ProMotion
+MWS:::MWave DSP synths instrument; AWAVE
+MXL:::PackRat 5.0 support DLLs; PackRat 5.0
+MXT:::Data; MS C
+MYP:::Presentation; MM Make Your Point
+NAM:::Name Space Modules; Novell NetWare
+NAP:::Naplps file (VideoShow); EnerGraphics
+NAPLPS:::North American Presentation Layer Protocol Syntax;
+NB:::Text file; Nota Bene; Wolfram Mathematica Notebook;
+NC:::Graphics; netcdf
+NC:::Instructions for NC (Numerical Control) machine; CAMS
+NC:::Non-error checking preprosessed Goc source code; Geoworks
+NCC:::CNC (Computer Numeric Control) control file; CamView 3D
+NCD:::Norton Change Directory support file; Norton Commander
+NDB:::Network database; Intellicom - Compex
+NDL:::Nodelist file;
+NDX:::Index file; dBASE II - III - IV - dBFast
+NEO:::Raster graphics file; Atari Neochrome
+NES:::iNES ROM image format;
+NET:::Network configuration/info file;
+netCDF:::Network Common Data Format;
+NEW:::New info;
+NFF:::Haines Neutral File Format;
+NFS:::Arquive Lotus;
+NFF:::NotesWorldToolKit Neutral File Format;
+NFO:::Folioview database;
+NFO:::Help format; Nextpage Folio
+NFO:::Info file;
+NG:::Hypertext Database; Norton Guide
+NGO:::NG linker object file; NGML
+NGS:::NG compiler source file; NGC
+NIF:::netimmerse/gamebyro file
+NIL:::NIL; Icon Hear-It
+NITF:::National Imagery Transmission Format;
+NL:::Norton Desktop Icon Library;
+NLM:::Netware loadable module; Novell Netware
+NLS:::National Language Support file; MS-DOS
+NLX:::Form; FormWorx 3.0
+nnn:::Arj archive volumes up to 999; ARJ
+nnn:::Netware unicode rule table (e.g. 1250_Uni.036); Novell Netware
+nnn:::News about smth with ext. of ver. number;
+nnn:::RAR archive volumes up to 999; RAR
+NOT:::Notation;
+NP:::Project schedule (Nokia Planner); Nokia Planner
+NPI:::Source for DGEN.EXE interpreter; dBASE Application Generator
+NSS:::Norton screensaver module; NC - NDW Screen Saver
+NST:::Music module; Amiga Noise Tracker
+NSX:::Compound index file; SuccessWare SIX 3.00
+NT:::Startup files; Windows NT
+NTR:::Executable ASCII text file (strip header and rename); netrun31.zip
+NTS:::Executable ASCII text file (strip header and rename); netsend1.zip
+NTS:::Tutorial; Norton
+NTX:::Database index file; Clipper 5
+NUF:::Message for new users on their 1st call; Procomm Plus
+NWS:::Info text file (latest news) (ASCII);
+NXT:::Sound (NeXT format);
+O$$:::Outfile; Sprint
+O:::Object file; unix - Atari - GCC
+O01:::Typhoon vOice file; AWAVE
+OAZ:::Fax; NetFax Manager
+OB:::Object cut/paste file; IBM LinkWay
+OBD:::Microsoft Office Binder; MSOffice
+OBJ:::Compiled machine language code;
+OBJ:::Object code; Intel Recolatable Object Module
+OBJ:::Wavefront Object;
+OBR:::Object browser data file; Borland C++
+OBS:::Script; ObjectScript
+OBT:::Microsoft Office Binder Template; MSOffice
+OBV:::Visual interface; ObjectScript
+OBZ:::Microsoft Office Binder Wizard; MSOffice
+OCF:::Object Craft File; Object Craft
+OCR:::Incoming fax transcribed to text; FAXGrapper
+OCT:::Musical file; Pctalizer
+OCX:::New Custom Control's format in VB 4.0; Visual Basic
+OCX:::OLE custom control;
+ODB:::OpenDocument database
+ODF:::OpenDocument formula
+ODG:::OpenDocument drawing
+ODIF:::Open Document Interchange Format;
+ODL:::Object Description Language;
+ODL:::Type library source; Visual C++
+ODM:::OpenDocument master document
+ODP:::OpenDocument presentation
+ODS:::OpenDocument spreadsheet
+ODT:::OpenDocument text document
+OFD:::Form definition; ObjectView
+OFF:::Object File Format vector graphics file;
+OFF:::Object File Format vector graphics;
+OFM:::PostScript font description file;
+OFN:::MS Office documents; MSOffice
+OGG:::Ogg multimedia container format
+OHS:::Outbound History; Bink/+
+OIF:::QuickBase file format
+OKT:::Music (8 channels); Oktalyzer
+OKT:::Music format; Oktalyzer
+OLB:::Object library; VAX
+OLD:::Backup file;
+OLI:::Text file; Olivetti
+OOM:::Swap file; Shroom
+OPN:::Active options; Exact
+OPT:::Options; name used by many programs for configuration information;
+OPT:::Delphi project options; Borland Delphi
+OPT:::Optimize support file; QEMM
+OPW:::Organization chart; Org Plus for Windows
+OPX:::Inactive options; Exact
+ORA:::Parameter file; Oracle
+ORG:::Calendar file; Lotus Organizer
+ORG:::Origin plot; Microcal Origin
+OTG:::OpenDocument drawing template
+OTH:::OpenDocument HTML document template
+OTL:::Outline font description; Z-Soft Type Foundry; Ventura Publisher's Type Foundry Outline Editor format;
+OTP:::OpenDocument presentation template
+OTS:::OpenDocument spreadsheet template
+OTT:::OpenDocument text document template
+OTX:::Text file; Olivetti Olitext Plus
+OUT:::Output file;
+OV1:::Overlay file (part of program to be loaded when needed);
+OV2:::Overlay file (part of program to be loaded when needed);
+OVD:::Datafile; ObjectVision
+OVL:::Overlay file (part of program to be loaded when needed);
+OVR:::Overlay file (part of program to be loaded when needed);
+P:::Database PROGRESS source code; PROGRESS
+P:::PASCAL source code file;
+P:::Parser source code file
+P:::Picture file; APPLAUSE
+P:::Rea-C-Time application parameter file; ReaGeniX code generator
+P0?:::Split archive UC2; SAS.EXE
+P10:::Tektronix Plot; GCGW
+P16:::Music (16 channels); ProTracker Studio 16
+P22:::Patch file (Patch22); Patch22
+PA1:::Worktable; PageAhead
+PAC:::SBStudio II Package or Song; SBStudio II
+PAC:::STAD Image (graphics?);
+PAD:::Keypad definition; Telemate
+PAK:::Archive; Pak
+PAL:::Palette file; Microsoft Draw - Win. Paintbrush - many
+PAN:::Printer-specific file (copy to coreldrw.ink); CorelDRAW
+PAR:::Parameter file; Fractint
+PAR:::PARTS application; Digitalk PARTS
+PAR:::Permanent output file; Windows 3.x
+PAR:::Parity Archive
+PAR2:::Parity Archive v2
+PAS:::Pascal language source; Borland Pascal
+PAT:::Gravis Ultrasound Patch; Convert (c) Villena
+PAT:::Hatch patterns; AutoCAD - Photostyler
+PAT:::Vector fill files; CorelDRAW
+PAT:::GIMP pattern
+PB:::Fax; FAXability Plus
+PB:::Phonebook; WinFax Pro
+PB:::Proboard Conf. files; Proboard
+PB:::Setup file; PixBase
+PB1:::Document; First Publisher for Windows
+PBA:::Powerbasic BASIC source code; Genus
+PBD:::Phone book; FaxNOW! - Faxit
+PBD:::Molecule (protein data bank);
+PBD:::Power Builder Dinamic Data Library;
+PBI:::Powerbasic include file; Genus
+PBI:::Profiler Binary Input; MS Source Profiler
+PBK:::Microsoft Network Phone book; MSN
+PBL:::Powerbasic library; Genus
+PBM:::PBM Portable Bit Map graphics format; Jasc Media C.
+PBM:::Planar bitmap graphics; XLib
+PBO:::Profiler Binary Output; MS Source Profiler
+PBT:::Profiler Binary Table; MS Source Profiler
+PC:::Text file containing IBM PC specific info;
+PC3:::Custom palette; Harvard Graphics 3.0
+PC8:::ASCII text IBM8 character set; NewWave Write
+PCB:::P-CAD database; P-CAD
+PCC:::Cutout picture vector graphics; PC Paintbrush
+PCD:::Graphics format (Kodak Photo-CD);
+PCD:::Kodak Photo-CD Image graphics file (768x512); hpcdtoppm
+PCF:::Pixel Coordination Format / PaintCad Font
+PCH:::Patch file;
+PCH:::Precompiled header; MS C/C++
+PCJ:::Multimedia authoring tool graphics file; IBM's Linkaway-Live
+PCK:::Pickfile; Turbo Pascal
+PCL:::HP-PCL graphics data file; HP Printer Control Language
+PCM:::OKI MSM6376 synth chip PCM; AWAVE
+PCM:::PCM; Authorware
+PCS:::Microsoft PowerPoint picture package; MS PowerPoint - MS ClipArt Gallery
+PCT:::Bitmap graphics file; Macintosh b&w PICT1 - color PICT2
+PCW:::Text file; PC Write
+PCX:::PC paintbrush bitmap format; QPeg - Display - ZSoft - PC Paintbrush
+PDA:::Bitmap graphics;
+PDB:::Data; TACT
+PDB:::Packrat 5.0 data file; Packrat 5.0
+PDB:::Molecule (protein data bank);
+PDE:::Pathology Data Exchange
+PDE:::data; PowerDesk Encrypted
+PDF:::Adobe's Portable Document Format; Adobe Acrobat Reader
+PDF:::Graphics file (ED-SCAN 24bit format);
+PDF:::Package Definition File;
+PDF:::PCAD Database Interchange Format; Pdifin.exe - Pdifout.exe
+PDF:::Print device information Netware;
+PDG:::Print Shop Deluxe data file;
+PDI:::Portable Database Image;
+PDL:::Project Description Language file; Borland C++ 4.5
+PDN:::Image file; Paint DotNet
+PDS:::PALASM Design Description;
+PDS:::Pds graphics;
+PDS:::Planetary Data System Format;
+PDS:::Pldasm source code file (hardware assembly);
+PICTURES:::Pictures in the PICMax
+PDW:::Document; Professional Draw
+PEB:::Program Editor bottom overflow file; WordPerfect Library
+PED:::Program Editor delete save; WordPerfect Library
+PEM:::Program Editor macro; WordPerfect Library
+PEQ:::Program Editor print queue file; WordPerfect Library
+PER:::Program Editor resident area; WordPerfect Library
+PES:::Program Editor work space file; WordPerfect Library
+PET:::Program Editor top overflow file; WordPerfect Library
+PEX:::Proboard EXecutable file (Executed from PB); Proboard
+PFA:::PostScript Font File;
+PFA:::Type 3 font file (unhinted PostScript font);
+PFB:::Adobe Acrobat document; Adobe Acrobat Reader
+PFB:::PostScript font; Adobe Type Manager (ATM)
+PFC:::Text file; First Choice
+PFK:::Programmable function keys; XTreePro
+PFM:::Windows Type 1 font metric file;
+PFS:::Database (PFS:FILE) - text file (PFS:Write); PFS
+PFT:::Printer font; ChiWriter
+PG:::Page cut/paste file; IBM LinkWay
+PGI:::Printer Graphics File device driver; PGRAPH library
+PGL:::HP Plotter vector graphics format;
+PGM:::Graphics format (Portable GrayMap); JASC Media C.
+PGM:::Program; Signature
+PGP:::Support file; Pretty Good Privacy RSA System
+PGS:::Manual page; man4dos
+PH:::Optimized.goh file; Geoworks
+PH:::PERL header file;
+PH:::Phrase-table; MS C/C++
+PHD:::PolyHedra Database;
+PHM:::Phone book; DN - Lync
+PHN:::Phone list; UltraFax - QmodemPro
+PHO:::Phone database; Metz Phone for Windows
+PHP:::PHP file;
+PHR:::Phrases; LogoScript
+PIC:::123 Vector graphics format; CShow - Alchemy - Paint (Pictor)
+PIC:::Bitmap graphics file; Macintosh b&w PICT1 - color PICT2
+PIC:::Lotus picture;
+PIC:::PIXAR picture file; SDSC Image Tool
+PICT:::Macintosh Picture;
+PIF:::OS/2 graphics metafile; PICVIEW.EXE
+PIF:::Program Information File; Windows 3.x
+PIF:::Vector graphics GDF format file (IBM mainframe computers);
+PiM:::Pascal Text Mode Image File; The Ultimate Draw
+PIT:::Compressed Mac file archive created by PACKIT; unpackit.zoo
+PIX:::Alias image file; SDSC Image Tool
+PIX:::Inset Pix;
+PJ:::Project; CA-SuperProject
+PJT:::Additional (FPT) project description file; FoxPro
+PJX:::Main (DBF) project description file; FoxPro
+PK:::PacKed bitmap font bitmap file (TeX DVI drivers);
+PKA:::Archive; PKARC
+PKG:::Installer script; Next
+PKG:::P-CAD database; P-CAD
+PKT:::Fido message packet; FTN software
+PL:::Palette; Harvard Graphics
+PL:::PERL source code file;
+PL:::Prolog source code file;
+PL:::Property List font metric file; TeX
+PL1:::Room plan; 3D Home Architect
+PL3:::Chart palette; Harvard Graphics 3.0
+PLB:::FoxPro library; FoxPro
+PLB:::P-CAD library; P-CAD
+PLC:::Add-in file (functions - macros - applications); Lotus 1-2-3
+PLC:::P-CAD database; P-CAD
+PLIST:::Mac OS Property List; Apple's Property List Editor
+PLL:::Prelinked library; CA Clipper
+PLM:::DisorderTracker2 music module; AWAVE
+PLN:::Spreadsheet; WordPerfect for Win
+PLT:::HPGL plotter file vector graphics; AutoCAD
+PLT:::Output file for ploter;
+PLT:::P CAD: Output file editor for PCPLOT or PCPRINT; P CAD
+PLT:::Page Magic 2.0 paper format; Page Magic 2.0
+PLT:::Palette;
+PLT:::Table for.pll; CA Clipper
+PLY:::Data; PopMail
+PLY:::Presentation screen; Harvard Spotlight
+PLY:::ZipPack;
+PM:::Perl module;
+PM:::Bitmap graphics; Presentation Manager
+PM3:::PageMaker 3.0 data file; PageMaker 3.0
+PM4:::Document; PageMaker 4
+PM5:::Aldus PageMaker 5.0 publication; Aldus PageMaker
+PMC:::Graphics; A4TECH Scanner
+PMI:::OS/2 V3 SVGA PMI-File; Svga.exe
+PMM:::Program file; Amaris BTX/2
+PMP:::PhotoMorph Project; PhotoMorph
+PN3:::Printer device driver; Harvard Graphics 3.0
+PNG:::Portable Network Graphics;
+PNM:::PBM Portable aNy Map graphics file;
+PNT:::Macintosh painting;
+PNT:::Pointlist segment; FTN software
+PNT:::QWK reader pointer file; MarkMail 2.x
+POH:::Optimized.goh file; Geoworks
+POL:::InnovMetric Software Polygon Models Format;
+POP:::Messages index; PopMail
+POP:::Pop-up menu object; dBASE Application Generator
+POT:::MS PowerPoint template
+POV:::Raytraced graphics image; Persistence Of Vision
+POW:::Power Chords instrument/song file; Power Chords
+PP:::Amiga archive; POWERPACKER
+PPA:::MS PowerPoint Add-in
+PPB:::Button bar for Print Preview; WordPerfect for Win
+PPD:::PostScript printer description file;
+PPJ:::Premiere Project; Premiere
+PPK:::Archive (using for many distributives); PPK
+PPL:::PolaroidPalettePlus ColorKey device driver; Harvard Graphics 3.0
+PPM:::Graphics format (Portable PixelMap); JASC Media C.
+PPO:::Preprocessor output; CA Clipper 5.*
+PPP:::Publication; PagePlus
+PPS:::Storyboard; Personal Producer
+PPS:::Apresentação de slides do Microsoft Office PowerPoint 97-2003
+PPT:::General file extension; PowerPoint
+PPT:::Apresentação do Microsoft Office PowerPoint 97-2003
+PPTX:::Apresentação do Microsoft Office PowerPoint
+PR1:::Packrat 4.0 data file; Packrat 4.0
+PR2:::Packrat 4.x data file; Packrat 4.x
+PR2:::Presentation; Aldus Persuasion 2.x
+PR2:::Printer driver; dBASE IV
+PR3:::PostScript printer driver; dBASE IV
+PR3:::Presentation; Aldus Persuasion 3.x
+PRD:::Printer driver;
+PRE:::Presentation; Freelance Graphics
+PRE:::Settings; Programmer's WorkBench - MS C/C++
+PRE:::Stork graphic file;
+PRF:::CheckIt Pro v1.0 data file; CheckIt Pro 1.0
+PRF:::Pixel Run Format graphics file; Improces - Fastgraph
+PRF:::Printer driver; dBASE IV
+PRF:::Profiler output;
+PRG:::Program source code (e.g. Clipper language); CA Clipper
+PRG:::Program source; dBASE IV - FoxPro - Clipper 5 - dBFast
+PRG:::Program; Atari
+PRI:::Printer definitions; LogoScript
+PRJ:::Borland C++ IDE project file; BC.EXE - BCW.EXE
+PRM:::Parameters;
+PRN:::Printer driver; Signature
+PRN:::Text file; Lotus 1-2-3 - Symphony
+PRN:::Usually printer output file;
+PRO:::Profile; used by many programs to store configuration data;
+PRO:::Graphics profile file; DOS
+PRO:::Proboard conf. file; Proboard
+PRO:::Prolog language source;
+PRO:::PROLOG source code file;
+PROJ:::Project File (Interface Builder); NeXT
+PROMOB:::Promob project file; Promob
+PRR:::The Perfect Resume data file; Perfect Resume
+PRS:::Norton Viewer DLL file;
+PRS:::Presentation; Harvard Graphics Win
+PRS:::Printer Resource eg. fonts; WordPerfect for Win
+PRS:::Procedure; dBASE IV
+PRT:::P-CAD component; P-CAD
+PRT:::Part or Drawing; Cadkey
+PRT:::Printer driver; Dr. Halo
+PRX:::Compiled program; FoxPro
+PRZ:::Graphic Archive; Lotus Freelance 97
+PS:::Document in PostScript format; adobe
+PSA:::Archive (Pretty Simple Archive); PSA.OUT (GNU)
+PSD:::Periscope Debbuger Def file; Periscope
+PSD:::Photoshop bitmap file; Photoshop
+PSE:::see PSEG;
+PSEG:::Bitmap graphics; IBM printer Page SEgment
+PSF:::Outline PostScript printer font; ChiWriter
+PSM:::Music format (Protracker Studio Module); Protracker - MASI
+PSM:::Symbol table of IDE; Turbo Pascal
+PSN:::Presentation file for Sound Script; Win
+PSP:::Procedure; Prodea Synergy
+PSQ:::Premiere Sequence; Premiere
+PST:::Postbox file; BMail
+PSW:::File w/ passwords for any program/game; many
+PT:::Game crack; Player Tools
+PT:::Kodak Precition Color Management System;
+PT3:::Device driver; Harvard Graphics 3.0
+PT3:::Template; PageMaker 3
+PT4:::Template; PageMaker 4
+PT5:::Aldus PageMaker 5.0 publication template; Aldus PageMaker
+PTB:::Script; PubTech BatchWorks
+PTL:::Premiere Title; Premiere
+PTM:::Macro; PubTech BatchWorks
+PTM:::Music format;
+PTM:::Page Magic 2.0 template; Page Magic 2.0
+PTN:::Pattern; Cadkey
+PTN:::Pattern; CarveWright/CompuCarve Designer
+PTR:::OS/2 cursor image file; ICONEDIT.EXE
+PTR:::QWK reader pointer file; QMail
+PTU:::Performer Terrain Utilities;
+PUB:::Page template; MS Publisher
+PUB:::Public key ring file; Pretty Good Privacy RSA System
+PUB:::Publication; Ventura Publisher - 1st Publisher
+PUD:::Warcraft II Map file; Warcraft 2
+PUT:::Archive; PUT
+PUT:::Graphics format; WScan
+PVD:::Script; Instalit
+PVL:::Library; Instalit
+PVT:::Local Fidonet pointlist; FTN software
+PW:::Text file; Professional Write
+PWL:::Password List;
+PWP:::Text document; Professional WritePlus
+PX:::Paradox 3.0 file; Paradox 3.0
+PXP:::3DS Process file; 3D Studio
+PXR:::Pixiar Picio; AltamiraComposer
+PY:::PYTHON script file;
+PYC:::Compiled PYTHON script file;
+PYI:::Cognos Powerplay Model;
+PZD:::Default settings; Pizazz Plus
+PZI:::Graphics format; PZP
+PZO:::Overlay file; Pizazz Plus
+PZP:::Palette; Pizazz Plus
+PZS:::Settings; Pizazz Plus
+PZT:::Transfer file; Pizazz Plus
+PZX:::Swap file; Pizazz Plus
+Q0:::Q0 graphic file;
+QAG:::Quick Access Group; Norton Desktop
+QAP:::Application; Omnis Quartz
+QBB:::Quickbooks Backup File
+QBE:::Saved query (Query By Example); dBASE IV - Quattro Pro
+QBO:::Compiled query; dBASE IV
+QBW:::Spreadsheet; QuickBooks for Windows
+QDK:::Backup of startup files created by Optimize; QEMM
+QDn:::Data file - segment n; Omnis Quartz
+QDV:::Graphics file; Steve Blackstock Giffer
+QEF:::Query file; Q+E for MS Excel
+QFX:::Fax; QuickLink
+QLB:::Quick library; MS C/C++
+QLC:::ATM Type 1 fonts script; Adobe Type Manager
+QLP:::Printer driver; QuickLink
+QM4:::Options or services file; QMail 4.x Mail Door
+QPR:::Generated query program; FoxPro
+QPR:::Print queue device driver; OS/2
+QPX:::Compiled executable QBE query file; FoxPro
+QRS:::Equation Editor support file; WordPerfect for Win
+QRT:::Graphics format (QRT ray tracing);
+QRY:::Query; dBASE IV
+QT:::QuickTime movie (animation);
+QTVR:::QuickTime VR Movie;
+QWK:::QWK reader message file;
+QXD:::Document; QuarkXPress
+QXL:::Element library; QuarkXPress
+R:::RATFOR (FORTRAN preprosessor) file;
+R:::Script file; R
+R2D:::Reflex 2 datafile; Reflex 2
+R8:::Raw graphics file (one byte per pixel) plane one; PicLab
+R8P:::PCL 4 bitmap font file; Intellifont
+RA:::Remote Access conf. files; RA
+RAD:::2-op FM music; Reality AdLib Tracker
+RAD:::Radience;
+RAL:::Remote Access Language file; Remote Access
+RAM:::Ramfile; RealAudio
+RAR:::Archive; RAR
+RAS:::Graphics format; SUN Raster
+RAT:::Datafile (RATS);
+RAW:::HSI raw graphic file;
+RAW:::PCM Signed Raw Sound File;
+RAW:::QRT graphic file;
+RAY:::Rayshade;
+RBF:::Datafile; Rbase
+RC:::Configuration file; emacs
+RC:::Resource Compiler script file; MS C/C++ - Borland C++
+RC:::Resource Script; Resource Writer
+RC:::UUPC configuration files; UUPC
+RC:::Windows resource compiler script; RC.EXE -Resource WorkShop - OS/2
+RCG:::Netscape newsgroup file (netsc.rcg);
+RData:::Data file; R
+RDF:::Compiled UIC source code; Geoworks UI Compiler
+RDI:::Device-independent bitmap file (RIFF RDIB format);
+RDX:::Datafile; Reflex
+REC:::Archivation protocol; ARCSERVE
+REC:::Datafile; EpiInfo
+REC:::Record file; Sprint
+REC:::Windows Recorder Macro File; WinRecorder
+RED:::Path info; Clarion Modula-2
+RED:::REDuced nodelist file; T-Mail nodelist Compiler
+REF:::Cross-reference;
+REG:::OLE Registration file; Windows 3.x
+REG:::Registration information or key;
+REM:::Remarks definition; Sourcer
+REM:::Remarks;
+REP:::QWK reader reply file;
+REP:::Report file used by many applications;
+REP:::Report; Report Designer - CodeReporter - DataBoss
+REQ:::File request; FTN Software
+RES:::Compiled resource; MS C/C++ - Borland C++
+RES:::DBASE resources; dBASE IV
+RES:::Windows compiled resource package; Win
+REV:::Revision file; Geoworks
+REX:::PharLab executable file (old format); PharLab
+REX:::Report definition; Oracle
+REX:::Rexx language source file; Rexx
+REZ:::Resource file;
+RF:::Sun raster graphics file;
+RFT:::DCA/RFT Revisable Format Text file; IBM DisplayWrite 4.0-5.1
+RGB:::SGI RGB image file (RAW); SDSC Image Tool
+RGSS2A:::Arquivo encriptado RPG Maker VX
+RGSSAD:::Arquivo RGSS encriptado
+RGX:::Symbol tables etc. info; ReaGeniX code generator
+RH:::Resource header file; Borland C++ 4.5
+RH:::Windows resource file header; RC.EXE
+RHistory:::Command history logfile; R
+RI:::Data; Lotus 1-2-3
+RIB:::Graphics (Renderman Interface Bytestream); 3D Reality
+RIC:::Fax; Ricoh
+RIF:::RIFF bitmap graphics (Resource Interchange File Format); Fractal Design Painter
+RIP:::TeleGrafix Remote Imaging Protocol; Maximus 3.0
+RIX:::Graphics (ColoRIX Image File); ColoRIX
+RL4:::Bitmap graphics;
+RL8:::Bitmap graphics;
+RLA:::Wavefront raster image file; SDSC Image Tool
+RLB:::Data hgw.rlb; Harvard Graphics Win
+RLC:::Graphics 1bit/pixel scanner output;
+RLD:::Norton Commander 5.0 temp file; NC 5.0
+RLE:::Utah Run Length Encoded rasterfile graphic file; SDSC Image Tool
+RLZ:::REALIZER source code file; CA-Realizer
+RMB:::data; RegistryMaster
+RMI:::Windows alternate synthesized sound format; RIFF RMID format
+RMK:::Make file; CA Clipper - RMAKE
+RMVB:::RealMedia Variable Bitrate
+RN:::XPL program for Nota Bene users;
+RND:::Rendering Slide; AutoCAD AutoShade
+Rnn:::Multi volume RAR archive; RAR
+RNO:::Runoff file; VAX
+ROL:::FM music Adlib Music File; Roland
+ROM:::Read Only Memory image in emulators, AONs, etc.;
+RPB:::Data report file used by CP Backup; CP Backup
+RPD:::Database; RapidFile
+RPF:::AutoCAD pattern; ACAD
+RPL:::Text document; Replica
+RPT:::Report file used by many applications;
+RS:::Data file; Amiga Resource - Reassembler
+RS_:::Resource fork of a Macintosh file; Mac-ette
+RSC:::Resource file; ViewMax - many
+RSL:::Resource Library used by PC Tools for Windows; PC Tools - Win
+RSP:::Response file (text file containing input expected by eg. LINK);
+RSP:::Response File; OS/2
+RTF:::Rich Text Format text file (help file script); many - MS Word
+RTFD:::RTF-Packet; NeXT
+RTL:::HP RTL graphic file;
+RTL:::Run-Time library; Norton Utilities
+RTL:::Text file;
+RTP:::RTPatch software update package data file; Pocket soft patch
+RTS:::Realizer executable file;
+RTS:::Runtime library file; CA-Realizer
+RUL:::Echo-conference rules;
+RUN:::PC Tools for Windows batch file; PC Tools
+RUS:::Russian text;
+RV:::Mobile pricelist data file; Mobile
+RVDATA:::Arquivo de dados do RPG Maker VX
+RVPROJ:::Projeto do RPG Maker VX
+RVW:::Review;
+RWS:::Borland Resource Workshop symbol file; Resource Workshop
+RWS:::Resource Workshop data file; Borland C++
+RWX:::Criterion RenderWare;
+RWX:::MEME Shape File;
+RWX:::Script; RenderWare
+RXD:::Reflex 1 datafile; Reflex 1
+RXDATA:::Arquivo de dados do RPG Maker XP
+RXPROJ:::Projeto do RPG Maker XP
+S$$:::Temporary sort file; Sprint
+S:::ASSEMBLY source code file; unix
+S:::Multi Edit macro file source; Multi Edit
+S19:::Motorola ASCII format of executables
+S1K:::S1000 Simnet Format;
+S3I:::Digiplayer/ST3 Sample File; Digiplayer - ST3
+S3M:::Music (16 channels); Scream Tracker 3.0 - DMP
+S7I:::Seed7 language include file;
+SA?:::Packed mail; FTN software
+SAF:::see SAIF;
+SAIF:::Spatial Archive Interchange Format;
+SAL:::Datafile; SORITEC
+SAN:::LucasArts' SMUSH/INSANE animation
+SAM:::Ami Pro data file; Ami Pro
+SAM:::Text file; Samna - Lotus Ami/Ami Pro
+SAR:::Archive; SAR
+SAT:::ACIS;
+SAV:::Backup file (saved file);
+SAV:::Configuration;
+SAV:::Saved game state;
+SB:::Audio file (signed byte);
+SB:::Raw Signed Byte (8bit) data; AWAVE
+SB:::Raw Signed PCM Byte 8bit data; AWAVE
+SBD:::Storyboard; Storyboard Editor
+SBI:::Sound Blaster Instrument file (Creative Labs);
+SBK:::Emu SoundFont Bank (AWE32 Bank); Convert (c) Villena
+SBL:::Stony Brook Pascal library; SB Pascal
+SBP:::DML program; Superbase 4
+SBR:::Support file; Source Browser
+SBT:::Notes related to record; Suberbase 4 Windows
+SC:::Display driver; Framework II
+SC:::PAL script; Paradox
+SC:::Script; Borland Paradox
+SC3:::Renamed dBASE III screen mask file; dBASE IV
+SC3:::Screen device driver; Harvard Graphics 3.0
+SCA:::Datafile; SCA
+SCC:::Text file;
+SCD:::SCODOL film recorder (Scan Conversion Object Description Language); SCODOL
+SCF:::Multimedia show; ScoreMaker
+SCF:::Spelling checker configuration file; Symphony
+SCH:::Project schedule; Schedule Publisher
+SCH:::Scheme; P CAD - Orcad
+SCI:::Fax; SciFax
+SCI:::System Configuration Information;
+SCM:::Scheme source code file;
+SCN:::SCeNe RTrace;
+SCN:::Screen file; Kermit
+SCO:::High score;
+SCP:::Script; BITCOM
+SCR:::Any other screen system;
+SCR:::DEBUG source code file; DOS Debug
+SCR:::Forth screen (source) file; Forth
+SCR:::Screen - screen snapshot; dBASE IV - Procomm Plus
+SCR:::Screen font; LogoScript
+SCR:::Screen saver; Windows 3.x
+SCR:::Screen snapshop;
+SCR:::Script file source; TeleMate - Kermit - 1st Reader
+SCT:::Additional (FPT) screen description file; FoxPro
+SCX:::Chart; Stanford Chart
+SCX:::Graphics format; ColoRIX
+SCX:::Main (DBF) screen description file; FoxPro
+SCY:::Security file; ReaGeniX
+SD:::Sound Designer I audio file; AWAVE
+SD7:::Seed7 language source;
+SDA:::Fidonet's Software Distribution Network file archive description;
+SDF:::Source definition file; Sourcer
+SDF:::System Data Format file (fixed length ASCII text);
+SDF:::Microsoft SQL Server Compact Edition database file;
+SDI:::Software Distribution Network Info file;
+SDK:::Roland S-550/S-50/W-30 Disk Image;
+SDL:::Alias Wavefront Scene Description Language;
+SDML:::Spacial Data Modeling Language;
+SDN:::Software Distribution Network compressd file archive; pak251.exe
+SDR:::SmartDraw File; SmartDraw Pro
+SDS:::MIDI Sample DUMP Standard File;
+SDTS:::Spatial Data Transfer Standard;
+SDW:::Ami Draw Symbol File;
+SDX:::Sample DUMP Exchange File;
+SEA:::Self-Extracting compressed Macintosh file Archive;
+SEC:::----- compressed file;
+SEC:::Diskreet encrypted file; Diskreet
+SEC:::Secret key ring file; Pretty Good Privacy RSA System
+SEC:::Secured animation file; Disney Animation Studio
+SEP:::Printer separator page;
+SEQ:::Atari animation file;
+SEQ:::Video; Tiertex video sequence
+SEQ:::Sequential Instruction File; Bubble Chamber
+SES:::Session info; Clarion Modula-2
+SES:::Multitrack Audio Session info; Adobe Audition
+SET:::Configuration file; 1st Reader
+SET:::Driver sets created by Install; Symphony
+SET:::Extension used by Norton Backup and CPS Backup for setup info; Norton Backup - CPS Backup
+SET:::Setup options file;
+SF:::IRCAM Sound File; CSound package - MixView sound sample editor
+SF:::JAR Digital Signature
+SF:::WPS attribute storage (OS/2 WorkPlace Shell) wp_root.sf; OS/2 WorkPlace Shell
+SF2:::Emu SoundFont Bank v2.0 file; AWAVE
+SFB:::HP Soft font (obsolete under Windows);
+SFD:::SoundStage Data file; AWAVE
+SFF:::Scene File Format;
+SFI:::Graphics; SIS Framegrabber
+SFI:::Printer font (HP LaserJet landscape); Ventura Publisher
+SFL:::PCL 4 bitmap font (landscape); landscape - Intellifont -Ventura Publisher
+SFN:::Font; SPX
+SFO:::Bitstream font file - fontware format;
+SFP:::PCL 4 bitmap font; portrait - Intellifont - Ventura Publisher
+SFR:::Sonic Foundry Sample Resource; AWAVE
+SFS:::PCL 5 scalable font file; Intellifont
+SFT:::Screen font; ChiWriter
+SFX:::SFX (self-extracting archives) script; RAR
+SG1:::Graphics; Stanford Graphics
+SGF:::Document with graphics; Starwriter
+SGI:::Graphics file; IRIS - Silicon Graphics
+SGP:::Statistics; STATGRAPHICS Plus
+SGT:::Save/get keyboard macro; Signature
+SH:::ASCII archive; SHAR
+SH:::Unix shell script;
+SH3:::Presentation; Harvard Graphics 3.0
+SHAR:::Archive; UNSHAR (Unix)
+SHB:::Background; CorelShow
+SHG:::Segmented Hyper-Graphic;
+SHK:::Apple II archive; SHRINKIT
+SHM:::Shell macro; WordPerfect Library
+SHP:::Shape file and source file for text fonts; AutoCAD
+SHR:::see SHAR;
+SHT:::HTML format for WWW; NetScape
+SHW:::Presentation; Harvard Graphics 2.0 - CorelShow
+SHW:::Slide show; WordPerfect Presentations
+SHX:::Shape entities; AutoCAD
+SIF:::Setup Installation Files info; Windows NT Setup
+SIG:::Current program settings; Signature
+SIG:::Signature file; ThunderByte AntiVirus - PopMail
+SIK:::Backup file (Sicherungskopie); MS Word
+SIM:::Simon document file - Simon instruction software editor
+SIS:::???
+SIT:::Archive (Macintosh); STUFFIT
+SKR:::Encrypted File Archive (created by lnx_n)
+SKP:::Google SketchUp file
+SKY:::SYLK Spreadsheet file (used by Multiplan);
+SL:::S-Lang source code file;
+SLB:::P-CAD library (symbols); P-CAD
+SLB:::Slide library; AutoCAD
+SLC:::SALT (script from Telix) compiled code; Telix
+SLD:::Slide; AutoCAD
+SLDPRT:::Part; SolidWorks
+SLDASM:::Assembly; SolidWorks
+SLDDRW:::Drawing; SolidWorks
+SLI:::Slide; MAGICorp Slide Service
+SLK:::MS Excel import format; MS Excel
+SLK:::SYLK Symbolic Link format data file; MultiPlan
+SLL:::Sound data file;
+SLP:::Localization project file; Sisulizer
+SLT:::SALT Script Application Language for Telix script source; Telix
+SLV:::Solution for any game; many
+SM:::Maillist; SoftSpoken Mailer
+SM:::Script; ScriptMaker
+SM:::SMALLTALK source code file;
+SM:::Text file; Samna Word
+SMF:::Fax; SMARTFAX
+SMK:::Smacker Video Format (RAD Video);
+SMM:::Ami Pro Macro File; Ami Pro
+SMN:::Font (ParaGraph's WorkScript format);
+SMP:::Sample (sound file);
+SMP:::Samplevision File; Samplevision
+SMS:::Jogos de plataforma para Meka.
+SMT:::Text file; Smart Ware II
+SN:::Compressed song file; Sound Club editor
+SND:::Digitized sound file; Macintosh/ATARI/PC
+SND:::Power Chords drum sound file; Power Chord
+SNG:::Song (midi sound); Midisoft Studio - Prism
+SNO:::SNOBOL4 source code file;
+SNP:::Book-shelf for.BOO; READIBM
+SNP:::Microsoft Access report snapshot
+SNP:::Output video format from Computer Eyes equipment;
+SOAR:::Soar Production file
+SOL:::Solution eg. game walkthroughs;
+SOM:::Network serial numbers; Quattro Pro
+SOM:::Sort information; Paradox
+SON:::Song; SBStudio II
+SOU:::SBStudio II Sound File; SBStudio II
+SOU:::Sound data (sound tool);
+SP:::Archive (unix); SPLINT
+SPC:::Program; MS Multiplan
+SPC:::Temporary file; WordPerfect for Win
+SPD:::Scalable font; Speedo - Harvard Graphics 3.0
+SPF:::Slide presentation file; EnerGraphics
+SPF:::data; SQR Portable Format
+SPG:::Glossary; Sprint
+SPI:::Graphics (Siemens and Philips scanner);
+SPIFF:::Still Picture Interchange File Format;
+SPL:::Archive; SPLINT
+SPL:::Customized printer driver; Sprint
+SPL:::Personal spell dictionary; Signature
+SPL:::Print spooling file; Windows 3.x
+SPL:::Sample;
+SPM:::Data wp{wp}.spm; WordPerfect
+SPP:::Printer file; Sprint
+SPR:::Document letter; Sprint
+SPR:::Generated executable screen file; FoxPro
+SPR:::Sprite;
+SPR:::Story Board sprites;
+SPS:::Screen driver; Sprint
+SPS:::SPSSx source code file; VAX/VMS
+SPT:::Data support file (MITAC disk/system management utility pack); MITAC disk/system management utility pack
+SPT:::SPITBOL source code file;
+SPW:::Worksheet; SigmaPlot
+SPX:::Compiled executable screen file; FoxPro
+SQD:::Squish message base; Squish
+SQI:::Squish message base index; Squish
+SQL:::SQL language code; Any SQL database
+SQL:::Squish message base lastread pointers; Squish
+SQZ:::Archive; SQUEEZE
+SQZ:::FOXPRO Squeeze file; FOXPRO
+SRC:::Multi-edit source; Multi-Edit
+SRC:::Source; DataFlex
+SRF:::Sun Raster File graphics file;
+SRP:::Script; QuickLink
+SS:::Bitmap graphics; Splash
+SS:::Screen saver; DN
+SSD:::Datafile; SAS/PC
+SSP:::Datafile; SAS Transport
+SST:::AVHRR graphic file;
+ST:::Instrument library; Scream Tracker
+ST:::SMALLTALK source code file; Little Smalltalk
+ST:::Stamp; NeoPaint
+STA:::Data file; Statistica
+STA:::Saved state; Reflection 4.0
+STA:::Stack; Spinmaker Plus
+STB:::Stub library; Genus GX Kernel
+STC:::OpenOffice.org 1.* spreadsheet template
+STD:::State Transition Diagram graphic file; Prosa; OpenOffice.org 1.* drawing template; Standard (something..); LogoScript
+STF:::Archive; SHRINKTOFIT
+STF:::Setup Table File
+STI:::OpenOffice.org 1.* presentation template
+STL:::Stereolithography Interface Format;
+STM:::Music format (4 channels) (Scream Tracker Module); ST - DMP
+STM:::State Transition Diagram model file; Prosa
+STO:::Pascal stub OBJ file; Genus GX Kernel
+STR:::Gate3 table structure file;
+STR:::Structure list object file; dBASE Application Generator
+STS:::Music format (Scream Tracker Song); ST 2.0-2.3
+STS:::Project status info; MS C/C++
+STW:::Data file; SmartTerm for Windows; OpenOffice.org 1.* text document template
+STX:::Electronic book; SmarText
+STX:::Music format;
+STX:::Tax form; CA-Simply Tax
+STY:::Ami Pro Template (Style); used by other programs for `styles`; Ami Pro
+STY:::Style library or sheet; many
+SU?:::Packed mail; FTN software
+SUI:::SUIT library; Simple User Interface Toolkit
+SUM:::Summary;
+SUN:::Sun rasterfile graphics file;
+SUO:::Solution User Options for Microsoft Visual Studio
+SUP:::Supplementary dictionary; WordPerfect for Win
+SVD:::Autosave file for document; MS Word
+SVG:::Autosave file for glossary; MS Word
+SVG:::Scalable Vector Graphics, many
+SVQ:::Music format;
+SVS:::Autosave file for style sheet; MS Word
+SVW:::Super Video Windows; Conversion Artist
+SVX:::Interchange, 8SVX/16SV; AWAVE
+SW:::Raw Signed Word (16bit) data; AWAVE
+SWG:::SWAG Pascal Snippets file; SWAG
+SWP:::Document backup; Sprint
+SWP:::Swap file;
+SXC:::OpenOffice.org 1.* spreadsheet
+SXD:::OpenOffice.org 1.* drawing
+SXG:::OpenOffice.org 1.* master document
+SXI:::OpenOffice.org 1.* presentation
+SXM:::OpenOffice.org 1.* formula
+SXP:::3DS Process file; 3D Studio
+SXW:::OpenOffice.org 1.* text document
+SY1:::SmartPix symbol library; Ami Pro
+SY3:::Harvard Graphics format;
+SY3:::Symbol file; Harvard Graphics 3.0
+SYD:::Backup of startup files created by QEMM (?) autoexec.syd;
+SYD:::Sysedit backup file; Sysedit
+SYM:::Compiler symbolic information file;
+SYM:::P-CAD component (symbols); P-CAD
+SYM:::Precompiled headers; Borland C++
+SYM:::Program symbol table; Power C - MS ILink incremental linker
+SYM:::Symbol file; Harvard Graphics 2.0 - MS Windows SDK
+SYN:::SDSC Synu image file; SDSC Image Tool
+SYN:::Synonym file; MS Word 5
+SYS:::Datafile; SYGRAPH - SYSTAT - SPSS/PC
+SYS:::System file - device driver or hardware configuration info; DOS
+SYW:::Graphics file (symbol); Harvard Graphics Win
+SYW:::Yamaha SY-85/SY-99 Wave File; Convert (c) Villena
+T:::Archive without compression (tape); tar
+T:::TADS source;
+T:::Tester symbol table; ReaGeniX code generator
+T?H:::Turbo Help file (Pascal, C, Assembler,...); Borland Thelp
+T44:::Temporary file for Sort or Index; dBASE IV
+T64:::Program; C64S emulator
+TAG:::Query tag name; DataFlex
+TAH:::Help file for Turbo Assembler; Borland C++
+TAL:::Adobe Type Align; Adobe
+TAL:::Text illustration; TypeAlign
+TAP:::Tape file; ZX Spectrum emulator by g.a.lunter
+TAR:::Archive; TAR
+TAZ:::Archive; WinZipNT - TAR - COMPRESS
+TB1:::Font file; Borland Turbo C
+TB2:::Font file; Borland Turbo C
+TBF:::Fax; Imavox TurboFax
+TBK:::FOXPRO template backup file; FOXPRO
+TBK:::Memo backup; dBASE IV - FoxPro
+TBK:::Toolbook; Asymetrix ToolBook
+TBL:::Short for Table; used by many programs;
+TBL:::Aldus TableEditor file; TableEditor
+TBL:::Gate3 table file;
+TBL:::Graphics file (native format); PageMaker TableEditor
+TBL:::Table of values; OS/2
+TBR:::Norton Desktop custom toolbar; NDW
+TBS:::Text elements?? (Textbausteine); MS Word
+TBX:::Table; Project Scheduler 4
+TC:::Configuration; Turbo C - Borland C++
+TCH:::Help file; Turbo C - Borland C++
+TCL:::Tool Command Language source code; Swat
+TCW:::Drawing; TurboCAD for Windows
+TD:::Config from Turbo Debugger; Turbo Debugger
+TD0:::Compressed diskette in a file; Teledisk
+TD2:::Configuration file; Turbo Debugger for Win32
+TDB:::Database; TACT
+TDDD:::Imagine Object File Format;
+TDF:::Speedo font file;
+TDF:::Typeface definition file; Speedo
+TDH:::Help file for Turbo Debugger; Borland C++
+TDC:::TFN Configuration File; TFS Network
+TDK:::Keystroke recording file; Turbo Debugger
+TDR:::Contens of Arvid tape;
+TDS:::Symbol table; Turbo Debugger
+TDW:::Configuration file; Turbo Debugger for Windows
+TEF:::Fax; Relisys TEFAX
+TEL:::Host file; Telnet
+TEM:::Input template; IconAuthor
+TEM:::Turbo Editor Macro Language script; Borland C++
+TERM:::Terminal File
+TET:::Tetris results; DN
+TEX:::Datasheet; Idealist
+TEX:::TeX text file; Scientific Word - TeX
+TEXT:::Text file;
+TF:::Configuration; Turbo Profiler
+TFA:::Area file; Turbo Profiler
+TFC:::Catalogue file; Tobi's Floppy Cataloguer
+TFF:::self executing TansForm dialogue; TansForm
+TFH:::Help file for Turbo Profiler; Borland C++
+TFM:::Tagged font metric file; Intellifont
+TFM:::TeX Font Metric file; TeX
+TFS:::Statistical information; Turbo Profiler
+TG1:::Project file; On Target
+TGA:::Targa True Color bitmapped format;
+TGZ:::Archive; WinZipNT - TAR - GNUzip
+TH?:::Packed mail; FTN software
+THE:::Windows'95 Desktop Theme; Microsoft Plus
+THM:::Picture Publisher or PhotoMagic Thumbnail; Sony Ericsson Theme File
+THS:::Thesaurus dictionary; WordPerfect for Win
+TIC:::FTN special file with assotiated file description; ALLFIX
+TIF:::see TIFF;
+TIFF:::TIFF (tagged image format file) bitmapped file; Alchemy - PhotoStyler -PageMaker - CorelDRAW
+TIL:::Fuzzy logic knowledge base; Togai InfraLogic Fuzzy-C Compiler
+TIS:::Tile set; MahJongg 3.0
+TJL:::Backup file; VAXTPU editor
+TLB:::Interoperaility Type Library; Win95
+TLB:::Reference table; Bubble Chamber
+TLB:::Text library; VAX
+TLB:::Type library; Visual C++
+TLC:::Compiled Tool Command Language source code; Swat
+TLD:::Disk Image; Teledisk
+TLP:::Project; TimeLine
+TMF:::Tagged Font Metric file; WordPerfect for Win
+TMO:::ZTG global optimizer default output file; Zortech C++
+TMP:::Temporary file;
+TMS:::TeleMate compiled script; TeleMate
+TOC:::Table Of Contents text file (ASCII);
+TOK:::Borland C++ 4.x reserved word list; BCW.EXE
+TOPC:::TopicCrunch SEO Project file holding keywords, domain and search engine settings (ASCII);
+TORRENT:::Arquivo TORRENT
+TOS:::Self-extracting file archive (Atari ST);
+TP:::Session-state file; Turbo Profiler
+TP:::Turbo Pascal cfg file; Turbo Pascal
+TP3:::Template; Harvard Graphics 3.0
+TPB:::Downloadable PCL Soft font file backup; HiJaak
+TPC:::File produced when an inter-Topicscape topic link file is exported to Windows
+TPF:::Downloadable PCL Soft font file; HiJaak
+TPH:::Help file; Turbo Pascal
+TPL:::Resident units library; Turbo Pascal
+TPL:::Template file; GoldEd -ITrack
+TPL:::Template; Harvard Graphics 2.0
+TPP:::Protected Mode Units; Borland Pascal 7.0
+TPU:::Borland Pascal DOS Mode Library; Borland Pascal
+TPU:::Command file (VAXTPU editor); VAXTPU editor
+TPW:::Borland Pascal Windows Library; Borland Pascal
+TPW:::Session-state file; Turbo Profiler for Windows
+TPZ:::Archive; TAR - GNUzip
+TR:::Man page input suitable for troff -man; cawf2.zip
+TR:::Session-state settings; Turbo Debugger for DOS
+TR2:::Session-state settings; Turbo Debugger for Win32
+TRC:::Debug support file; Power CTrace
+TRE:::Directory tree file; PC-Tools
+TRD:::Datafile; TrID file identifier filetypes definitions package
+TRIF:::Tiled Raster Interchange Format;
+TRK:::Track (i.e. video sequence), used by many games;
+TRM:::Terminal settings; Windows 3.x
+TRN:::Translation support file; Quattro - Clarion
+TRS:::Executable file; Micrografx or password file; WiSo Mein Geld 2007
+TRU:::True Basic source file;
+TRW:::Session-state settings; Turbo Debugger for Windows
+TSK:::Microsoft Multimedia Task Application; Win95
+TSM:::Turbo Assembler Manual; TASM for OS/2
+TST:::Printer test file; WordPerfect for Win
+TSV:::Tab Separated Values;
+TTF:::TrueType Font file;
+TU?:::Packed mail; FTN software
+TUD:::The Ultimate Draw file; The Ultimate Draw
+TUT:::Tutorial;
+TV:::Table view settings; Paradox
+TVF:::Table view settings; dBASE
+TVn:::Overflow file above insert point in Doc n; WordPerfect for Win
+TXF:::Archive; TAR and FREEZE
+TXI:::Support file; TeX
+TXT:::Common name for ASCII text file;
+TXW:::Yamaha TX-16W Wave File; Convert (c) Villena
+TYM:::Time Stamp (PageMaker 4); PageMaker 4
+TZ:::Archive; TAR - COMPRESS
+TZB:::Archive; TAR - COMPRESS - BTOA
+U8:::Sample;
+UB:::Raw Unsigned Byte (8bit) data; AWAVE
+UC2:::Archive; UC II
+UCN:::New archive; UC II
+UDF:::Filter; Photostyler
+UDW:::Raw Unsigned DWord data; AWAVE
+UE2:::Encrypted archive; UC II
+UFI:::data; UFO CaptureV2 settings
+UHA:::UHarc archive
+UHS:::Universal Hint System (binary file);
+UI:::Espire source code file; Geoworks UI Compiler
+UI:::User interface; Sprint
+UIF:::Long prompts for windows; WordPerfect for Win
+UIH:::Espire header file; Geoworks UI Compiler
+UL:::ULAW audio file;
+ULD:::Information about uploaded files; Procomm Plus
+ULF:::data; MRF Mapping Tool Kit Universal List Format
+ULT:::Music; UltraTracker
+UMB:::Backup file; MemMaker
+UNF:::Universal NES Image Interchange File Format;
+UNI:::Datafile; Forecast Pro
+UNI:::Music format; UNIMOD - MIKMOD
+UNIF:::Universal NES Image Interchange File Format;
+UNX:::Text file containing UNIX specific info;
+UOML:::UniqueObject Markup Language (UOML) is a XML-based markup language;
+UPD:::Update data; dBASE
+UPO:::Compiled update data; dBASE
+URT:::Utah Raster Toolkit;
+USE:::Log file;
+USP:::Printer font with USASCII extended character set; PageMaker
+USR:::User database file; Procomm Plus - Turbo C++ tour
+UT!:::datafile; uTorrent
+UU:::Encoded file (ASCII); UUENCODE/UUDECODE
+UUE:::Encoded file (ASCII); UUENCODE/UUDECODE
+UW:::Raw Unsigned Word 16bit data; AWAVE
+UWF:::UltraTracker WaveSample; UltraTracker
+V:::Consistency check support file; ReaGeniX code generator
+V:::Main input file for an image; Vivid 2.0
+V8:::Covox 8bit file; AWAVE
+VAI:::multimedia; PhotoDub document
+VAL:::Validity checks and referential integrity; Paradox for Windows
+VAL:::Values list object file; dBASE Application Generator
+VAN:::Animation; VistaPro
+VAP:::Value Added Process; NetWare 2.xx
+VAR:::Variable file; IconAuthor
+VBR:::Visual Basic Custom Control file; Visual Basic
+VBS:::VBScript script file; Visual Basic script; Visual Basic for Applications script
+VBX:::Visual Basic eXtension; Visual Basic
+VBZ:::Visual Basic Setup Wizard Template; Setup Wizard
+VC:::Include file with color definitions; Vivid 2.0
+VC:::Spreadsheet; VisiCalc
+VCA:::Visual Clip Art;
+VCR:::VCR drivers for Arvid;
+VCW:::Visual workbench information; MS Visual C++
+VCX:::Spreatsheet; VisiCalc Advanced
+VDA:::Bitmap graphics;
+VDO:::Story Board video image; Story Board
+VDR:::Drawing; ComputerEasy Draw
+VEW:::GroupWise for Windows; Win
+VEW:::View file; Clipper 5 - Lotus Approach
+VFA:::FontLab Database file; FontLab
+VFM:::Ventura Font Metrics file;
+VFM:::Voting Form; Voter
+VFN:::Voting Form for Customers; Voter
+VGA:::VGA display driver;
+VGA:::VGA display font;
+VGD:::VGA display driver; Generic CADD
+VGR:::Graphics file; Ventura Publisher
+VI:::Graphics file; Jovian Logic VI
+VI:::Watcom editor script; VI.EXE
+VIC:::see VICAR;
+VICAR:::Graphics (Video Image Communication and Retrieval);
+VID:::Bitmap graphics (YUV12C M-Motion Frame Buffer);
+VID:::Graphics format; Word&Deed
+VID:::MS-DOS Shell Monitor file; MS-DOS 5
+VID:::Screen device driver; Word
+VIF:::see VIFF;
+VIFF:::Khoros Visualization Image File Format; SDSC Image Tool
+VIK:::Graphics format (VIKING);
+VINF:::data; ReMPEG log file - frames info
+VIR:::Virus or infected file;
+VIS:::VIS graphics file;
+VLM:::Virtual Loadable Module; Netware
+VM:::Virtual Memory file; Geoworks
+VMC:::Virtual memory configuration; DOS/4GW PM 32X DOS Extender
+VMF:::Font characteristics; Ventura Publisher
+VMS:::Text file containing VMS specific info;
+VO:::Include file with object definition; Vivid 2.0
+VOC:::Sound format (Creative Lab's Sound File); PlayVoc
+VOF:::Object folder; VZ Programmer
+VOX:::Dialogic adpcm file; AWAVE, CoolEdit
+VP:::3DS Video posting; 3D Studio
+VPF:::Vector Product Format;
+VPG:::Graphics file; VPGraphics
+VPH:::Virtual Pascal Help; VP/OS2
+VPI:::Virtual Pascal Unit; VP/OS2
+VRM:::Overlay file; QuattroPro
+VRM:::Visual rexx source; WATCOM VREXX
+VRML:::Virtual Reality Modeling Language; NetScape
+VRP:::Project; WATCOM VX?Rexx
+VRS:::Video Resource eg. video device driver; WordPerfect
+VS:::Include file with surface definition; Vivid 2.0
+VSD:::Diagram; Shapeware Visio
+VSD:::Visio drawing; Visio
+VSM:::Simulation model; VisSim
+VSP:::Sprite; SPX
+VSS:::SmartShapes file; Shapeware Visio
+VSS:::Visio Template; Visio
+VST:::Truevision Vista graphics file;
+VST:::Visio Template; Visio
+VUE:::Animation; 3D Studio
+VUE:::View; dBASE IV - FoxPro
+VW:::Text file; Volkswriter
+VWR:::File viewer file; PC Tools
+VXD:::Windows 3.x virtual device driver; Windows 3.x
+W:::Word chart file; APPLAUSE
+W01:::Yamaha SY-series wave files; AWAVE
+W01:::Yamaha TX16W wave file; AWAVE
+W30:::Printer font; AST TurboLaser - Ventura Publisher
+W31:::Startup file; Windows 3.1
+W3m:::Warcraft III: Reign of Chaos Map
+W3x:::Warcraft III: The Frozen Throne Map
+W40:::Something for Windows95 (e.g. config.w40); Win95
+W44:::Temporary file for Sort or Index; dBASE
+W95:::Something for Windows95; Win95
+WAD:::War Allocation Daemon; Doom - Doom2
+WAS:::ProComm Script File (source code); ProComm
+WAV:::Sound format (Microsoft Windows RIFF WAVE); Media Player
+WAX:::ProComm compiled script; ProComm
+WB1:::Notebook; Quattro Pro
+WB2:::Spreadsheet; Quattro Pro
+WBF:::MS Windows Batch File; Catch
+WBK:::Document/workbook; WordPerfect for Win
+WBT:::Norton Desktop; Norton Desktop
+WBT:::Wilsonware Batch file; Winbatch
+WCD:::Macro token list; WordPerfect for Win
+WCH:::WordPerfect Macro Facility; WP
+WCM:::Data transmission file; MS Works
+WCM:::Macro; WordPerfect for Win
+WCP:::Product information description; WordPerfect for Win
+WD:::InfoSelect Data file;
+WDB:::Database; MS Works
+WE?:::Packed mail; FTN software
+WEB:::WEB source code file;
+WebOOGL:::Web Object Oriented Graphics Library;
+WFB:::Turtle Beach WaveFront Bank; AWAVE
+WFD:::Turtle Beach WaveFront Drum; AWAVE
+WFM:::Form object; dBASE Form Designer
+WFN:::Font; CorelDRAW
+WFP:::Turtle Beach WaveFront Prog.; AWAVE
+WFX:::Data file; Winfax
+WG1:::Worksheet; Lotus 1-2-3/G
+WG2:::Worksheet; Lotus 1-2-3 for OS/2
+WID:::Width table; Ventura Publisher
+WIN:::Window file; FoxPro - dBASE
+WINGS:::Arquivo salvo do programa Wings3D
+WIZ:::Page wizard; MS Publisher
+WK1:::Spreadsheet; Lotus 1-2-3 version 2.x - Symphony 1.1+
+WK3:::Spreadsheet; Lotus 1-2-3 version 3.x
+WK4:::Spreadsheet; Lotus 1-2-3 version 3.4
+WKB:::Document; WordPerfect for Win
+WKE:::Spreadsheet; Lotus 1-2-3 educational version
+WKI:::Spreadsheet format; Lotus 123 2x
+WKQ:::Spreadsheet; Quattro
+WKS:::Spreadsheet; Lotus 1-2-3 version 1A - Symphony 1.0 - MS Works
+WKS:::Workspace; Xlisp
+WKZ:::Spreadsheet format; Dos Navigator
+WLK:::Graphics; Virtus Walkthrough
+WLK:::Walk Through for any game; many
+WMA:::Windows Media Audio audio file
+WMC:::Backup of startup files by Windows MathCad autoexec.wmc; MathCad
+WMC:::Macro file; WordPerfect for Win
+WMC:::Text file; WordMARC
+WMF:::Windows MetaFile vector graphics;
+WMP:::Graphics (Windows Magic Icon Palette);
+WMV:::Windows Media Video video file
+WN:::ext; NeXT WriteNow
+WNF:::Corel Draw Font File; CorelDraw
+WOA:::Swap file; Windows 3.x
+WOC:::Organization; Windows OrgChart
+WOW:::Music (8 channels); Grave Mod Player
+WP:::Word Perfect Format; WP
+WP5:::Document; WordPerfect 5.x
+WPD:::Document; WordPerfect 6.0 - PFS:WindowWorks
+WPD:::Windows printer driver (uninstallable); Windows
+WPF:::Fax; WorldPort
+WPF:::Form; WordPerfect
+WPG:::WordPerfect Graphics vector graphics; DrawPerfect
+WPJ:::Watcom C/C++ IDE project; IDE.EXE
+WPK:::Macros; WordPerfect for Win
+WPL:::MediaRack Wave Playlist; MediaRack
+WPL:::Windows Media Playlist, for Windows Media Player
+WPM:::Macros; WordPerfect
+WPS:::Text document; MS Works
+WQ!:::Compressed spreadsheet; Quattro Pro
+WQ1:::Spreadsheet; Quattro Pro
+WR1:::Spreatsheet; Symphony 1.1 - 1.2 - 2
+WRD:::Template; Charisma
+WRI:::Write editor format; Write - WinWord
+WRK:::Spreadsheet; Symphony 1.0
+WRL:::VRML file;
+WRP:::Archive; Amiga WARP
+WRS:::Windows Resource eg. printer driver; WordPerfect for Win
+WS:::APL Worksheet;
+WS:::Text file; WordStar 5.0-6.0
+WS2:::Text file; WordStar 2000
+WSD:::Document; WordStar
+WSP:::Workspace; Fortran PowerStation
+WSQ:::Wavelet-packet Scalar Quantization Format;
+WSRC:::X-wais source;
+WST:::Text file; WordStar
+WTF:::WinTaper Data
+WWB:::Button bar for document window; WordPerfect for Win
+WWK:::Keyboard layout; WordPerfect for Win
+WXP:::Document; EXP for Windows
+X:::Archive; X1.EXE
+X:::AVS X image file; SDSC Image Tool
+X:::DirectX 3D object
+X:::LEX source code file;
+X3D:::x3d and xdart Formats;
+XA:::XA audio file; used in SimCity 3000 by Maxis, also by Sony Playstation
+XBM:::X11 Bitmap graphics file;
+XCF:::Gimp image file;
+XCK:::Extended crack file (usually text);
+XCK:::Extended crack;
+XCL:::Xtree for Windows Script file; Xtree for Win
+XDF:::OS/2 extended disk format image; XDFCOPY.EXE
+XDM:::Directory Manipulator for 32-bit Protected Mode; Xenotech Research Labs
+XEN:::Arquivo do programa Xenu's Link Sleuth
+XEX:::Xbox 360 Executable File
+XFN:::Printer font; Xerox 4045 - Ventura Publisher
+XFR:::Ventura Publisher Bitmap Editor Font file;
+XFT:::24 pin printer font; ChiWriter
+XI:::Fast Tracker 2 instrument file; AWAVE
+XI:::Fastracker 2.0 Instrument File; Fastracker 2.0
+XLA:::dd-in macro sheet; MS Excel
+XLA:::XLib Archive; xlibpas2.zip
+XLB:::Excel Toolbar; MS Excel
+XLC:::Excel Chart; MS Excel
+XLD:::Excel Dialog; MS Excel
+XLK:::Excel Archive; MS Excel
+XLL:::Excel Dynamic Link Library; MS Excel
+XLM:::Excel Macro File; MS Excel
+XLS:::Planilha do Microsoft Office Excel 97-2003
+XLSX:::Planilha do Microsoft Office Word
+XLT:::Excel Template; MS Excel
+XLT:::Translation table; Lotus 1-2-3 - Symphony - Procomm Plus
+XLV:::Excel Module; MS Excel
+XLW:::Excel Workbook; MS Excel
+XM:::Fast Tracker 2 extended module; AWAVE, Mod4Win, FastTracker, ImpulseTracker
+XM:::Music format; FastTracker - Cubic Player
+XMI:::Compressed eXtended MIdi music;
+XML:::eXtensible Markup Language file
+XMF:::eXtensible Music Format
+XNF:::Standard Network File form;
+Xnn:::Secondary indexes; Borland Paradox
+XOF:::RenderMorphics;
+XP:::eXtended Pattern; FastTracker 2.0
+XPM:::X11 Pixel Map graphics file;
+XQT:::Executable file; Waffle
+XQT:::Macro sheet; SuperCalc
+XRF:::Cross-reference file;
+XSF:::data; Microsoft InfoPath file
+XTB:::External translation table; LogoScript
+XTP:::XTreeGold overlay; XTreeGold
+XWD:::X Window System window dump image graphics file; SDSC Image Tool
+XWK:::Keyboard mapping; Crosstalk
+XWP:::Session; Crosstalk
+XWP:::Text file; Xerox Writer
+XX:::Encoded file (ASCII); XXENCODE
+XXE:::Encoded file (ASCII); XXENCODE
+XY:::Text file; XY Write
+XY3:::Text file; XYWrite III
+XYW:::Text file; XyWrite III
+Y:::Archive (Amiga); Yabba
+Y:::YACC grammar file;
+YAL:::Data custom/nature.yal; Arts & Letters
+YC:::Archive; YACC (YAC.EXE)
+Ynn:::Secondary index; Borland Paradox
+YUV:::Graphics format (YUV);
+YZ:::Archive; YAC
+Z:::Archive; WinZipNT - COMPRESS - PACK
+Z3:::Infocom game module;
+Z80:::Snapshot; ZX Spectrum emulator by g.a.lunter
+ZAD:::ZFax digitized voice file; ZFax
+ZDG:::Compressed ZiffNet text document; Zview
+ZER:::Data file; ZERBERUS
+ZGM:::Graphics; Zenographics
+ZIP:::Archive; PKZIP/PKUNZIP
+Znn:::ZIP archive; PKZIP/PKUNZIP
+ZOM:::Archive; Amiga ZOOM
+ZOO:::Archive; ZOO
+ZVD:::ZyXEL Voicefile; Z-Fax
+ZZE:::Encoded file;
