@@ -53,24 +53,24 @@ else
       CAT=$(cat db.txt | grep -i "^$EXT[:]" | cut -d: -f 2)
       CRI=$(cat db.txt | grep -i "^$EXT[:]" | cut -d: -f 3)
       DES=$(cat db.txt | grep -i "^$EXT[:]" | cut -d: -f 4)
-      ABR=$(cat db.txt | grep -i "^$EXT[:]" | cut -d: -f 3)
+      ABR=$(cat db.txt | grep -i "^$EXT[:]" | cut -d: -f 5)
 
       clear
       echo ""
       art
-      echo -e "        Arquivo: \033[01;31m${1}\033[00;37m                                                                                                  "
+      echo -e "        File: \033[01;31m${1}\033[00;37m                                                                                                  "
       echo -e "                                                                                                                                             "
-      echo -e "        Extenção: \033[01;96m$EXT\033[00;37m                                                                                                 "
+      echo -e "        Extension: \033[01;96m$EXT\033[00;37m                                                                                                 "
       echo -e "                                                                                                                                             "
-      echo -e "        Categoria: \033[01;96m$CAT\033[00;37m                                                                                                "
+      echo -e "        Category: \033[01;96m$CAT\033[00;37m                                                                                                "
       echo -e "                                                                                                                                             "
-      echo -e "        Criador: \033[01;96m$CRI\033[00;37m                                                                                                  "
+      echo -e "        Creator: \033[01;96m$CRI\033[00;37m                                                                                                  "
       echo -e "                                                                                                                                             "
-      echo -e "        Descrição: \033[01;96m$DES\033[00;37m                                                                                                "
+      echo -e "        Description: \033[01;96m$DES\033[00;37m                                                                                                "
       echo -e "                                                                                                                                             "
-      echo -e "        Abre Com: \033[01;96m$ABR\033[00;37m                                                                                                 "
+      echo -e "        Opens with: \033[01;96m$ABR\033[00;37m                                                                                                 "
       echo -e "                                                                                                                                             "
    else
-      echo "use: ${0} [nome_arquivo.extenção]"
+      echo "use: ${0} [name_file.extension]"
    fi
 fi
