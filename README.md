@@ -1,4 +1,6 @@
 # extinf
+[![Visits Badge](https://badges.pufler.dev/visits/71460-4-F/Extinf)](https://badges.pufler.dev)
+
 Extension Identifier
 
 EXTINF is a shell script intended to identify known and unknown file extensions.
